@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MyCoveMobileApp">
+        <wb-resource deploy-path="/" source-path="/WebApp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebApp/WEB-INF/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebApp/WEB-INF/lib"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebApp/shared/scripts"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebApp/shared/styles"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebApp/WEB-INF/conf"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebApp/shared/images"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebApp/jsp"/>
+        <property name="context-root" value="MyCoveMobileApp"/>
+        <property name="java-output-path" value="/MyCoveMobileApp/WebApp/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>

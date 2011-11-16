@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+
+<!--
+     This is a blank Struts configuration file based on the example application,
+     with commented examples of some items.
+
+     NOTE: If you have a generator tool to create the corresponding Java classes
+     for you, you could include the details in the "form-bean" declarations.
+     Otherwise, you would only define the "form-bean" element itself, with the
+     corresponding "name" and "type" attributes, as shown here.
+-->
+<struts-config>
+	
+	
+	 <!-- ========== Form Bean Definitions =================================== -->
+
+	<form-beans type="org.apache.struts.action.ActionFormBean">
+		<form-bean name="MaintenanceRequestForm" type="com.mycove.cove.form.MaintenanceRequestForm"></form-bean>
+		<form-bean name="TenantProfileForm" type="com.mycove.cove.form.TenantProfileForm"></form-bean>
+		<form-bean name="EmployeeProfileForm" type="com.mycove.cove.form.EmployeeProfileForm"></form-bean>
+		<form-bean name="MailBoxForm" type="com.mycove.cove.form.MailBoxForm"></form-bean>
+		<form-bean name="MailViewForm" type="com.mycove.cove.form.MailViewForm"></form-bean>
+		<form-bean name="EmployeeListForm" type="com.mycove.cove.form.EmployeeListForm"></form-bean>
+		<form-bean name="PropertyListForm" type="com.mycove.cove.form.PropertyListForm"></form-bean>
+		<form-bean name="ModifyBuildingForm" type="com.mycove.cove.form.ModifyBuildingForm"></form-bean>
+		<form-bean name="ModifyResidentForm" type="com.mycove.cove.form.ModifyResidentForm"></form-bean>
+		<form-bean name="ModifyPropertyForm" type="com.mycove.cove.form.ModifyPropertyForm"></form-bean>
+		<form-bean name="ModifyCustomerForm" type="com.mycove.cove.form.ModifyCustomerForm"></form-bean>
+		<form-bean name="AddPackageForm" type="com.mycove.cove.form.AddPackageForm"></form-bean>
+		<form-bean name="AddSurveyForm" type="com.mycove.cove.form.AddSurveyForm"></form-bean>
+		<form-bean name="AddTemplateForm" type="com.mycove.cove.form.AddTemplateForm"></form-bean>
+		<form-bean name="MaintenanceListForm" type="com.mycove.cove.form.MaintenanceListForm"></form-bean>
+		<form-bean name="TemplateListForm" type="com.mycove.cove.form.TemplateListForm"></form-bean>
+		<form-bean name="PackageListForm" type="com.mycove.cove.form.PackageListForm"></form-bean>
+		<form-bean name="SurveyListForm" type="com.mycove.cove.form.SurveyListForm"></form-bean>
+		<form-bean name="ResidentListForm" type="com.mycove.cove.form.ResidentListForm"></form-bean>
+		<form-bean name="SendNotificationListForm" type="com.mycove.cove.form.SendNotificationListForm"></form-bean>
+		<form-bean name="CustomForm" type="com.mycove.cove.form.CustomForm"></form-bean>
+		<form-bean name="AddPickupForm" type="com.mycove.cove.form.AddPickupForm"></form-bean>
+	</form-beans>
+ 
+	
+	
+  <!-- ========== Global Forward Definitions ============================== -->
+  <global-forwards type="org.apache.struts.action.ActionForward">
+  </global-forwards>
+
+ <!-- ========== Action Mapping Definitions ============================== -->
+  <action-mappings type="org.apache.struts.action.ActionMapping">
+  		<action path="/maintenanceRequest" parameter="action" type="com.mycove.cove.action.MaintenanceRequestAction" 
+				name="MaintenanceRequestForm" validate="false" scope="request" input="/jsp/cove/maintenanceRequest.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/maintenanceRequest.jsp" />
+			<forward name="failure" contextRelative="true" path="/maintenanceRequest.do" /> 
+			<forward name="success" contextRelative="true" path="/jsp/cove/maintenanceRequest.jsp" /> 
+			<forward name="login" contextRelative="true" path="/sec/Login.do" /> 
+		</action>
+		<action path="/TenantProfile" parameter="action" type="com.mycove.cove.action.TenantProfileAction" 
+				name="TenantProfileForm" validate="false" scope="request" input="/jsp/cove/tenantProfile.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/tenantProfile.jsp" />
+			<forward name="failure" contextRelative="true" path="/jsp/cove/tenantProfile.jsp" /> 
+			<forward name="success" contextRelative="true" path="/MailBox.do"/>
+			<forward name="success1" contextRelative="true" path="/MailBox.do"></forward>
+			
+		</action>
+ 		<action path="/EmployeeProfile" parameter="action" type="com.mycove.cove.action.EmployeeProfileAction"
+				name="EmployeeProfileForm" validate="false" scope="request" 
+				input="/jsp/cove/employeeProfile.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/employeeProfile.jsp" />
+			<forward name="failure" contextRelative="true" path="/jsp/cove/employeeProfile.jsp"  /> 
+			<forward name="success" contextRelative="true" path="/EmployeeList.do" /> 
+		</action>	
+		
+		<action path="/MailBox" type="com.mycove.cove.action.MailBoxAction" validate="no" 
+ 				name="MailBoxForm" scope="request" input="/jsp/cove/mailbox.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/mailbox.jsp" />
+			<forward name="success" contextRelative="true" path="/MailBox.do" />
+		</action>
+		
+		 <action path="/MailView" parameter="action" type="com.mycove.cove.action.MailViewAction" 
+		 		 validate="false" name="MailViewForm" scope="request" input="/jsp/cove/mailView.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/mailView.jsp" />
+			<forward name="failure" contextRelative="true" path="/MailView.do" />
+			<forward name="success" contextRelative="true" path="/MailBox.do" />
+		 </action>
+		 <action path="/MailForward" parameter="action" type="com.mycove.cove.action.MailViewAction" 
+		 		 validate="false" name="MailViewForm" scope="request" input="/jsp/cove/mailforward.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/mailforward.jsp" />
+			<forward name="failure" contextRelative="true" path="/Mailforward.do" />
+			<forward name="success" contextRelative="true" path="/MailBox.do" />
+		 </action>
+		 <action path="/mailreplyall" parameter="action" type="com.mycove.cove.action.MailViewAction" 
+		 		 validate="false" name="MailViewForm" scope="request" input="/jsp/cove/mailmailreplyall.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/mailreplyall.jsp" />
+			<forward name="failure" contextRelative="true" path="/mailreplyall.do" />
+			<forward name="success" contextRelative="true" path="/MailBox.do" />
+		 </action>
+		  <action path="/notificationList" parameter="action" type="com.mycove.cove.action.SendNotificationListAction" validate="false" 
+	 			name="SendNotificationListForm"	scope="request" input="/jsp/cove/notificationList.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/notificationList.jsp" />
+			<forward name="failure" contextRelative="true" path="/notificationList.do"  />
+			<forward name="success" contextRelative="true" path="/jsp/cove/notificationList.jsp" />
+			<forward name="custom" contextRelative="true" path="/jsp/cove/custom.jsp"></forward>
+		 </action>
+		 
+		 <action path="/EmployeeList" type="com.mycove.cove.action.EmployeeListAction" validate="no" 
+	 			name="EmployeeListForm"	scope="request" input="/jsp/cove/listEmployees.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listEmployees.jsp" />
+			<forward name="success" contextRelative="true" path="/EmployeeList.do" />
+		 </action>
+		 
+		 <action path="/MaintenanceList" type="com.mycove.cove.action.MaintenanceListAction" validate="no" 
+	 			name="MaintenanceListForm"	scope="request" input="/jsp/cove/listMaintenance.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listMaintenance.jsp" />
+			<forward name="success" contextRelative="true" path="/MaintenanceList.do" />
+		 </action>
+		 <action path="/TemplateList" type="com.mycove.cove.action.TemplateListAction" validate="no" 
+	 			name="TemplateListForm"	scope="request" input="/jsp/cove/listTemplate.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listTemplate.jsp" />
+			<forward name="success" contextRelative="true" path="/TemplateList.do" />
+		 </action>
+		  <action path="/PackageList" type="com.mycove.cove.action.PackageListAction" validate="no" 
+	 			name="PackageListForm"	scope="request" input="/jsp/cove/listPackage.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listPackage.jsp" />
+			<forward name="success" contextRelative="true" path="/PackageList.do" />
+		 </action>
+		 <action path="/PickupList" type="com.mycove.cove.action.PickupListAction" validate="no" 
+	 			name="PackageListForm"	scope="request" input="/jsp/cove/listPickup.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listPickup.jsp" />
+			<forward name="success" contextRelative="true" path="/PickupList.do" />
+		 </action>
+		 
+		  <action path="/SurveyList" type="com.mycove.cove.action.SurveyListAction" validate="no" 
+	 			name="SurveyListForm"	scope="request" input="/jsp/cove/listSurvey.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listSurvey.jsp" />
+			<forward name="success" contextRelative="true" path="/SurveyList.do" />
+		 </action>
+		 
+		 <action path="/ResidentList" type="com.mycove.cove.action.ResidentListAction" validate="no" 
+	 			name="ResidentListForm"	scope="request" input="/jsp/cove/listResidents.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listResidents.jsp" />
+			<forward name="success" contextRelative="true" path="/ResidentList.do" />
+		 </action>
+		 <action path="/BuildingList" type="com.mycove.cove.action.BuildingListAction" validate="no" 
+	 			name="ModifyBuildingForm"	scope="request" input="/jsp/cove/listBuilding.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listBuilding.jsp" />
+			<forward name="success" contextRelative="true" path="/BuildingList.do" />
+		 </action>
+		  
+		 
+		 <action path="/ModifyBuilding" parameter="action" type="com.mycove.cove.action.ModifyBuildingAction" validate="false" 
+	 			name="ModifyBuildingForm"	scope="request" input="/jsp/cove/modifyBuilding.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/modifyBuilding.jsp" />
+			<forward name="failure" contextRelative="true" path="/PropertyList.do"/>
+			<forward name="success" contextRelative="true" path="/ModifyBuilding.do" />
+		 </action>
+				
+		 <action path="/ModifyResident" parameter="action" type="com.mycove.cove.action.ModifyResidentAction" validate="false" 
+	 			name="ModifyResidentForm"	scope="request" input="/jsp/cove/modifyResident.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/modifyResident.jsp" />
+			<forward name="success" contextRelative="true" path="/ResidentList.do" />
+		 </action>
+		 <action path="/PropertyList" type="com.mycove.cove.action.PropertyListAction" validate="no" 
+	 			name="ModifyPropertyForm"	scope="request" input="/jsp/cove/listProperties.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listProperties.jsp" />
+			<forward name="success" contextRelative="true" path="/PropertyList.do" />
+		 </action>
+		 <action path="/ModifyProperty" parameter="action" type="com.mycove.cove.action.ModifyPropertyAction" validate="no" 
+	 			name="ModifyPropertyForm"	scope="request" input="/jsp/cove/modifyProperty.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/modifyProperty.jsp" />
+			<forward name="success" contextRelative="true" path="/PropertyList.do" />
+		 </action>
+		 <action path="/CustomerList" type="com.mycove.cove.action.CustomerListAction" validate="no" 
+	 			name="ModifyCustomerForm"	scope="request" input="/jsp/cove/listCustomers.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/listCustomers.jsp" />
+			<forward name="success" contextRelative="true" path="/CustomerList.do" />
+		 </action>
+		 <action path="/ModifyCustomer" parameter="action" type="com.mycove.cove.action.ModifyCustomerAction" validate="no" 
+	 			name="ModifyCustomerForm"	scope="request" input="/jsp/cove/modifyCustomer.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/modifyCustomer.jsp" />
+			<forward name="success" contextRelative="true" path="/CustomerList.do" />
+		 </action>
+		 <action path="/addPackage" parameter="action" type="com.mycove.cove.action.PackageAction" validate="no" 
+	 			name="AddPackageForm"	scope="request" input="/jsp/cove/addPackage.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/addPackage.jsp" /> 
+			<forward name="failure" contextRelative="true" path="/addPackage.do" /> 
+			<forward name="success" contextRelative="true" path="/PackageList.do" />
+			</action>  
+			<action path="/pmAddSurvey" parameter="action" 
+  				type="com.mycove.cove.action.SurveyAction" 
+				name="AddSurveyForm" validate="false" scope="request" 
+				input="/jsp/cove/addSurvey.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/addSurvey.jsp" />
+			<forward name="failure" contextRelative="true" path="/pmAddSurvey.do" /> 
+			<forward name="success" contextRelative="true" path="/pmAddSurvey.do" /> 
+		</action>
+		<action path="/maintenanceRequestView" parameter="action" 
+  				type="com.mycove.cove.action.MaintenanceRequestViewAction" 
+				name="MaintenanceRequestForm" validate="false" scope="request" 
+				input="/jsp/cove/maintenanceRequestView.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/maintenanceRequestView.jsp" />
+			<forward name="failure" contextRelative="true" path="/jsp/cove/maintenanceRequestView.jsp" /> 
+			<forward name="success" contextRelative="true" path="/MaintenanceList.do" /> 
+		</action>
+			<action path="/addTemplate" parameter="action" 
+  				type="com.mycove.cove.action.TemplateAction" 
+				name="AddTemplateForm" validate="false" scope="request" 
+				input="/jsp/cove/addTemplate.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/addTemplate.jsp" />
+			<forward name="failure" contextRelative="true" path="/addTemplate.do" /> 
+			<forward name="success" contextRelative="true" path="/TemplateList.do" /> 
+		</action>	
+		<action path="/custom" parameter="action" 
+  				type="com.mycove.cove.action.CustomAction" 
+				name="CustomForm" validate="false" scope="request" 
+				input="/jsp/cove/custom.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/custom.jsp" />
+			<forward name="failure" contextRelative="true" path="/custom.do" /> 
+			<forward name="success" contextRelative="true" path="/jsp/cove/notificationList.jsp" /> 
+		</action>	
+		<action path="/pickupBy" parameter="action" 
+  				type="com.mycove.cove.action.PickupAction" 
+				name="AddPickupForm" validate="false" scope="request" 
+				input="/jsp/cove/pickupBy.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/cove/pickupBy.jsp" />
+			<forward name="failure" contextRelative="true" path="/pickup.do" /> 
+			<forward name="success" contextRelative="true" path="/PickupList.do" /> 
+		</action>			
+			
+  </action-mappings> 
+  
+  <message-resources parameter="resources.Application"></message-resources>
+</struts-config>

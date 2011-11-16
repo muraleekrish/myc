@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+
+<struts-config>
+
+	<!-- ================= Form Bean Definitions ============================ -->
+	<form-beans type="org.apache.struts.action.ActionFormBean">
+		<!-- List Beans -->
+		<form-bean name="LoginForm" type="com.mycove.sec.form.LoginForm" />
+	</form-beans>
+
+	<!-- ================= Action Mapping Definitions ======================= -->
+	<action-mappings type="org.apache.struts.action.ActionMapping"> 
+	
+		<action path="/Redirect" type="com.mycove.common.action.RedirectAction"  validate="no" scope="request" />
+		
+		<action path="/Logout" type="com.mycove.sec.action.LogoutAction" 
+				validate="no" name="LoginForm" scope="request" input="/jsp/sec/logout.jsp">
+			<forward name="success" contextRelative="true" path="/sec/Login.do" /> 
+		</action>
+		<action path="/Login" type="com.mycove.sec.action.LoginAction" 
+				validate="no" name="LoginForm" scope="request" input="/jsp/sec/login.jsp">
+			<forward name="input" contextRelative="true" path="/jsp/sec/login.jsp" />
+			<forward name="success" contextRelative="true" path="/MailBox.do"/>
+			<forward name="resetPassword" contextRelative="true" path="/TenantProfile.do?formAction=update"/> 
+		</action>
+		
+	
+	</action-mappings>
+	
+
+	<controller processorClass="org.apache.struts.action.RequestProcessor" inputForward="true" />
+</struts-config>

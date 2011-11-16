@@ -1,0 +1,107 @@
+2011-07-28 15:20:54,392 INFO  com.robocall.CrewVerification :42 - invoked the IfByPhone Test..........
+2011-07-28 15:20:54,408 INFO  com.robocall.CrewVerification :46 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:20:54,408 INFO  com.robocall.CrewVerification :47 - CrewId=1&survoId=341921&time=11-07-28%2005%3A49%3A46
+2011-07-28 15:20:54,408 INFO  com.robocall.CrewVerification :52 - ok
+2011-07-28 15:20:54,408 INFO  com.robocall.CrewVerification :53 - CrewId=1&survoId=341921&time=11-07-28%2005%3A49%3A46
+2011-07-28 15:38:56,153 INFO  com.robocall.CrewVerification :42 - invoked the IfByPhone Test..........
+2011-07-28 15:38:56,153 INFO  com.robocall.CrewVerification :46 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:38:56,153 INFO  com.robocall.CrewVerification :47 - CrewId=32&ss=iiww&time=time
+2011-07-28 15:38:56,153 INFO  com.robocall.CrewVerification :52 - ok
+2011-07-28 15:38:56,153 INFO  com.robocall.CrewVerification :53 - CrewId=32&ss=iiww&time=time
+2011-07-28 15:40:54,747 INFO  com.robocall.CrewVerification :42 - invoked the IfByPhone Test..........
+2011-07-28 15:40:54,747 INFO  com.robocall.CrewVerification :46 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:40:54,747 INFO  com.robocall.CrewVerification :47 - CrewId=32&ss=iiww&time=time
+2011-07-28 15:40:54,747 INFO  com.robocall.CrewVerification :52 - ok
+2011-07-28 15:40:54,747 INFO  com.robocall.CrewVerification :53 - CrewId=32&ss=iiww&time=time
+2011-07-28 15:41:02,062 INFO  com.robocall.CrewVerification :42 - invoked the IfByPhone Test..........
+2011-07-28 15:41:02,062 INFO  com.robocall.CrewVerification :46 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:41:02,077 INFO  com.robocall.CrewVerification :47 - CrewId=1&ss=iiww&time=time
+2011-07-28 15:41:02,077 INFO  com.robocall.CrewVerification :52 - ok
+2011-07-28 15:41:02,077 INFO  com.robocall.CrewVerification :53 - CrewId=1&ss=iiww&time=time
+2011-07-28 15:42:01,701 INFO  com.robocall.CrewVerification :42 - invoked the IfByPhone Test..........
+2011-07-28 15:42:01,701 INFO  com.robocall.CrewVerification :46 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:42:01,701 INFO  com.robocall.CrewVerification :47 - CrewId=1&survoId=341921&time=11-07-28%2006%3A10%3A56
+2011-07-28 15:42:01,701 INFO  com.robocall.CrewVerification :52 - ok
+2011-07-28 15:42:01,701 INFO  com.robocall.CrewVerification :53 - CrewId=1&survoId=341921&time=11-07-28%2006%3A10%3A56
+2011-07-28 15:57:07,008 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-07-28 15:57:07,023 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:57:07,023 INFO  com.robocall.CrewVerification :54 - CrewId=1&ss=iiww&time=time
+2011-07-28 15:57:07,023 INFO  com.robocall.CrewVerification :59 - ok
+2011-07-28 15:57:07,023 INFO  com.robocall.CrewVerification :60 - CrewId=1&ss=iiww&time=time
+2011-07-28 15:57:47,745 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-07-28 15:57:47,745 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:57:47,745 INFO  com.robocall.CrewVerification :54 - CrewId=23&survoId=341921&time=11-07-28%2006%3A26%3A40
+2011-07-28 15:57:47,745 INFO  com.robocall.CrewVerification :59 - ok
+2011-07-28 15:57:47,745 INFO  com.robocall.CrewVerification :60 - CrewId=23&survoId=341921&time=11-07-28%2006%3A26%3A40
+2011-07-28 15:58:01,959 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-07-28 15:58:01,959 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:58:01,959 INFO  com.robocall.CrewVerification :54 - CrewId=22&survoId=342151&time=11-07-28%2006%3A26%3A54
+2011-07-28 15:58:01,959 INFO  com.robocall.CrewVerification :59 - ok
+2011-07-28 15:58:01,959 INFO  com.robocall.CrewVerification :60 - CrewId=22&survoId=342151&time=11-07-28%2006%3A26%3A54
+2011-07-28 15:58:13,455 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-07-28 15:58:13,455 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 15:58:13,455 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=342151&time=11-07-28%2006%3A27%3A06
+2011-07-28 15:58:13,455 INFO  com.robocall.CrewVerification :59 - ok
+2011-07-28 15:58:13,455 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=342151&time=11-07-28%2006%3A27%3A06
+2011-07-28 15:58:49,459 INFO  com.robocall.ProjectAddress :39 - http://192.168.1.63:8201/IfByPhone/Project
+2011-07-28 15:58:49,459 INFO  com.robocall.ProjectAddress :40 - WorkGroup_Id=214578&survoId=342111&pass=1
+2011-07-28 15:58:49,459 INFO  com.robocall.ProjectAddress :44 - ok
+2011-07-28 15:58:49,459 INFO  com.robocall.ProjectAddress :45 - WorkGroup_Id=214578&survoId=342111&pass=1
+2011-07-28 16:05:21,202 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-07-28 16:05:21,218 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 16:05:21,218 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=341921&time=11-07-28%2006%3A34%3A13
+2011-07-28 16:05:21,218 INFO  com.robocall.CrewVerification :59 - ok
+2011-07-28 16:05:21,218 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=341921&time=11-07-28%2006%3A34%3A13
+2011-07-28 16:05:37,807 INFO  com.robocall.ProjectAddress :39 - http://192.168.1.63:8201/IfByPhone/Project
+2011-07-28 16:05:37,807 INFO  com.robocall.ProjectAddress :40 - WorkGroup_Id=5233&survoId=342111&pass=1
+2011-07-28 16:05:37,807 INFO  com.robocall.ProjectAddress :44 - ok
+2011-07-28 16:05:37,807 INFO  com.robocall.ProjectAddress :45 - WorkGroup_Id=5233&survoId=342111&pass=1
+2011-07-28 16:09:18,938 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-07-28 16:09:18,938 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 16:09:18,938 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=341921&time=11-07-28%2006%3A38%3A11
+2011-07-28 16:09:18,938 INFO  com.robocall.CrewVerification :59 - ok
+2011-07-28 16:09:18,938 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=341921&time=11-07-28%2006%3A38%3A11
+2011-07-28 16:09:32,873 INFO  com.robocall.ProjectAddress :39 - http://192.168.1.63:8201/IfByPhone/Project
+2011-07-28 16:09:32,873 INFO  com.robocall.ProjectAddress :40 - WorkGroup_Id=89745&survoId=342111&pass=1
+2011-07-28 16:09:32,873 INFO  com.robocall.ProjectAddress :44 - ok
+2011-07-28 16:09:32,889 INFO  com.robocall.ProjectAddress :45 - WorkGroup_Id=89745&survoId=342111&pass=1
+2011-07-28 16:09:44,139 INFO  com.robocall.ProjectAddress :39 - http://192.168.1.63:8201/IfByPhone/Project
+2011-07-28 16:09:44,139 INFO  com.robocall.ProjectAddress :40 - WorkGroup_Id=55555&survoId=342161&pass=1
+2011-07-28 16:09:44,139 INFO  com.robocall.ProjectAddress :44 - ok
+2011-07-28 16:09:44,139 INFO  com.robocall.ProjectAddress :45 - WorkGroup_Id=55555&survoId=342161&pass=1
+2011-07-28 16:09:59,307 INFO  com.robocall.ProjectAddress :39 - http://192.168.1.63:8201/IfByPhone/Project
+2011-07-28 16:09:59,307 INFO  com.robocall.ProjectAddress :40 - WorkGroup_Id=2352&survoId=342161&pass=1
+2011-07-28 16:09:59,307 INFO  com.robocall.ProjectAddress :44 - ok
+2011-07-28 16:09:59,307 INFO  com.robocall.ProjectAddress :45 - WorkGroup_Id=2352&survoId=342161&pass=1
+2011-07-28 16:10:10,885 INFO  com.robocall.ProjectAddress :39 - http://192.168.1.63:8201/IfByPhone/Project
+2011-07-28 16:10:10,885 INFO  com.robocall.ProjectAddress :40 - WorkGroup_Id=2361&survoId=342161&pass=1
+2011-07-28 16:10:10,885 INFO  com.robocall.ProjectAddress :44 - ok
+2011-07-28 16:10:10,885 INFO  com.robocall.ProjectAddress :45 - WorkGroup_Id=2361&survoId=342161&pass=1
+2011-07-28 16:10:22,261 INFO  com.robocall.ProjectAddress :39 - http://192.168.1.63:8201/IfByPhone/Project
+2011-07-28 16:10:22,261 INFO  com.robocall.ProjectAddress :40 - WorkGroup_Id=2354&survoId=342161&pass=1
+2011-07-28 16:10:22,261 INFO  com.robocall.ProjectAddress :44 - ok
+2011-07-28 16:10:22,261 INFO  com.robocall.ProjectAddress :45 - WorkGroup_Id=2354&survoId=342161&pass=1
+2011-07-28 16:10:22,292 INFO  com.robocall.ProjectAddress :110 - success
+2011-07-28 16:10:42,047 INFO  com.robocall.ConfirmationRequest :38 - http://192.168.1.63:8201/IfByPhone/Confirmation
+2011-07-28 16:10:42,047 INFO  com.robocall.ConfirmationRequest :39 - Status=NA&survoId=342121&pass=1%7C%7C2354
+2011-07-28 16:10:42,047 INFO  com.robocall.ConfirmationRequest :43 - ok
+2011-07-28 16:10:42,047 INFO  com.robocall.ConfirmationRequest :44 - Status=NA&survoId=342121&pass=1%7C%7C2354
+2011-07-28 16:15:49,137 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-07-28 16:15:49,152 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 16:15:49,152 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=341921&time=11-07-28%2006%3A44%3A42
+2011-07-28 16:15:49,152 INFO  com.robocall.CrewVerification :59 - ok
+2011-07-28 16:15:49,152 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=341921&time=11-07-28%2006%3A44%3A42
+2011-07-28 16:16:03,867 INFO  com.robocall.ProjectAddress :39 - http://192.168.1.63:8201/IfByPhone/Project
+2011-07-28 16:16:03,867 INFO  com.robocall.ProjectAddress :40 - WorkGroup_Id=2354&survoId=342111&pass=1
+2011-07-28 16:16:03,867 INFO  com.robocall.ProjectAddress :44 - ok
+2011-07-28 16:16:03,867 INFO  com.robocall.ProjectAddress :45 - WorkGroup_Id=2354&survoId=342111&pass=1
+2011-07-28 16:16:03,913 INFO  com.robocall.ProjectAddress :110 - success
+2011-07-28 16:16:23,137 INFO  com.robocall.ConfirmationRequest :38 - http://192.168.1.63:8201/IfByPhone/Confirmation
+2011-07-28 16:16:23,137 INFO  com.robocall.ConfirmationRequest :39 - Status=Status%20completed&survoId=342121&pass=1%7C%7C2354
+2011-07-28 16:16:23,137 INFO  com.robocall.ConfirmationRequest :43 - ok
+2011-07-28 16:16:23,137 INFO  com.robocall.ConfirmationRequest :44 - Status=Status%20completed&survoId=342121&pass=1%7C%7C2354
+2011-07-28 17:47:00,981 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-07-28 17:47:00,981 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/IfByPhone/Crew
+2011-07-28 17:47:00,981 INFO  com.robocall.CrewVerification :54 - CrewId=NA&survoId=341921&time=11-07-28%2008%3A15%3A52
+2011-07-28 17:47:00,981 INFO  com.robocall.CrewVerification :59 - ok
+2011-07-28 17:47:00,981 INFO  com.robocall.CrewVerification :60 - CrewId=NA&survoId=341921&time=11-07-28%2008%3A15%3A52

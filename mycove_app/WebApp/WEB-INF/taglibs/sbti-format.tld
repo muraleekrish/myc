@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+
+<!DOCTYPE taglib PUBLIC
+	"-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.1//EN"
+	"http://java.sun.com/j2ee/dtds/web-jsptaglibrary_1_1.dtd">
+
+<taglib>
+    <tlibversion>1.0</tlibversion>
+    <jspversion>1.1</jspversion>
+    <shortname>Display Tags</shortname>
+	<uri></uri>
+	<tag>
+        <name>tr</name>
+        <tagclass>com.cirro.util.customtags.RowTag</tagclass>
+        <bodycontent>JSP</bodycontent>
+		<attribute>
+			<name>oddColor</name>
+			<required>true</required>
+		</attribute>
+		<attribute>
+			<name>evenColor</name>
+			<required>true</required>
+		</attribute>
+		<attribute>
+			<name>oddStyleClass</name>
+			<required>false</required>
+		</attribute>
+		<attribute>
+			<name>evenStyleClass</name>
+			<required>false</required>
+		</attribute>
+		<attribute>
+			<name>align</name>
+			<required>true</required>
+		</attribute>
+		<attribute>
+			<name>valign</name>
+			<required>true</required>
+		</attribute>
+    </tag>
+	<tag>
+        <name>formErrorInfo</name>
+        <tagclass>com.cirro.util.customtags.FormErrorInfoTag</tagclass>
+        <bodycontent>JSP</bodycontent>
+    </tag>
+	<tag>
+        <name>errorIdentifier</name>
+        <tagclass>com.cirro.util.customtags.ErrorIdentifierTag</tagclass>
+        <bodycontent>JSP</bodycontent>
+		<attribute>
+			<name>property</name>
+			<required>true</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+    </tag>
+	<tag>
+        <name>listNav</name>
+        <tagclass>com.cirro.util.customtags.ListNavTag</tagclass>
+        <bodycontent>JSP</bodycontent>
+		<attribute>
+			<name>listActionForm</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>formName</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+    </tag>
+</taglib>
+

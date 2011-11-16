@@ -1,0 +1,112 @@
+2011-08-23 17:07:26,724 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-23 17:07:26,756 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-23 17:07:26,756 INFO  com.robocall.CrewVerification :54 - CrewId=2&survoId=survey_id&time=timestamp
+2011-08-23 17:07:26,756 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-23 17:07:26,756 INFO  com.robocall.CrewVerification :60 - CrewId=2&survoId=survey_id&time=timestamp
+2011-08-23 17:12:07,160 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:12:07,160 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2744&survoId=survey_id&pass=2
+2011-08-23 17:12:07,160 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:12:07,160 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2744&survoId=survey_id&pass=2
+2011-08-23 17:12:19,551 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:12:19,551 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2921&survoId=survey_id&pass=2
+2011-08-23 17:12:19,551 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:12:19,551 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2921&survoId=survey_id&pass=2
+2011-08-23 17:12:24,098 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:12:24,098 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2921&survoId=survey_id&pass=2
+2011-08-23 17:12:24,098 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:12:24,098 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2921&survoId=survey_id&pass=2
+2011-08-23 17:13:37,238 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:13:37,238 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=29215&survoId=348131&pass=WOLL_P2
+2011-08-23 17:13:37,238 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:13:37,238 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=29215&survoId=348131&pass=WOLL_P2
+2011-08-23 17:13:37,269 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:14:24,472 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:14:24,472 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=27445&survoId=348131&pass=WOLL_P2
+2011-08-23 17:14:24,472 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:14:24,472 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=27445&survoId=348131&pass=WOLL_P2
+2011-08-23 17:14:24,503 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:14:29,456 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:14:29,456 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=27445&survoId=348131&pass=WOLL_P2
+2011-08-23 17:14:29,456 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:14:29,456 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=27445&survoId=348131&pass=WOLL_P2
+2011-08-23 17:14:29,456 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:14:35,487 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:14:35,487 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=29215&survoId=348131&pass=WOLL_P2
+2011-08-23 17:14:35,487 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:14:35,487 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=29215&survoId=348131&pass=WOLL_P2
+2011-08-23 17:14:35,503 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:14:51,175 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:14:51,175 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=29215&survoId=survo&pass=WOLL_P2
+2011-08-23 17:14:51,175 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:14:51,175 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=29215&survoId=survo&pass=WOLL_P2
+2011-08-23 17:14:51,175 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:15:19,971 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:15:19,971 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2921&survoId=survo&pass=WOLL_P2
+2011-08-23 17:15:19,971 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:15:19,971 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2921&survoId=survo&pass=WOLL_P2
+2011-08-23 17:15:20,018 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:15:20,018 INFO  com.robocall.ProjectAddress :105 - 658 Cross Corner2
+2011-08-23 17:16:01,722 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:16:01,722 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:16:01,722 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:16:01,722 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:16:01,754 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:16:01,769 INFO  com.robocall.ProjectAddress :105 - 20 Boston Street2
+2011-08-23 17:16:22,022 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:16:22,022 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:16:22,022 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:16:22,022 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:16:22,022 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:16:22,022 INFO  com.robocall.ProjectAddress :105 - 20 Boston Street2
+2011-08-23 17:16:27,132 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:16:27,132 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:16:27,132 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:16:27,132 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:16:27,148 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:16:27,148 INFO  com.robocall.ProjectAddress :105 - 20 Boston Street2
+2011-08-23 17:17:04,451 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:17:04,451 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2744&survoId=survo&pass=WOLL_P2
+2011-08-23 17:17:04,451 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:17:04,451 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2744&survoId=survo&pass=WOLL_P2
+2011-08-23 17:17:04,482 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:17:19,125 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:17:19,125 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2921&survoId=survo&pass=WOLL_P2
+2011-08-23 17:17:19,125 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:17:19,125 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2921&survoId=survo&pass=WOLL_P2
+2011-08-23 17:17:19,140 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:17:19,140 INFO  com.robocall.ProjectAddress :105 - 658 Cross Corner2
+2011-08-23 17:17:57,584 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:17:57,584 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:17:57,584 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:17:57,584 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:17:57,584 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:17:57,584 INFO  com.robocall.ProjectAddress :105 - 20 Boston Street2
+2011-08-23 17:31:40,646 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:31:40,646 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2921&survoId=survo&pass=WOLL_P2
+2011-08-23 17:31:40,646 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:31:40,646 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2921&survoId=survo&pass=WOLL_P2
+2011-08-23 17:31:40,662 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:31:40,662 INFO  com.robocall.ProjectAddress :105 - 658 Cross Corner2
+2011-08-23 17:32:01,646 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:32:01,646 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2744&survoId=survo&pass=WOLL_P2
+2011-08-23 17:32:01,646 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:32:01,646 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2744&survoId=survo&pass=WOLL_P2
+2011-08-23 17:32:01,646 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:36:09,052 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:36:09,052 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2921&survoId=survo&pass=WOLL_P2
+2011-08-23 17:36:09,052 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:36:09,052 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2921&survoId=survo&pass=WOLL_P2
+2011-08-23 17:36:09,068 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:36:09,068 INFO  com.robocall.ProjectAddress :105 - 658 Cross Corner2
+2011-08-23 17:36:35,646 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:36:35,646 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:36:35,646 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:36:35,646 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:36:35,646 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:36:35,646 INFO  com.robocall.ProjectAddress :105 - 100 G123 Block1
+2011-08-23 17:37:28,645 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-23 17:37:28,645 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:37:28,645 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-23 17:37:28,645 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2929&survoId=survo&pass=WOLL_P2
+2011-08-23 17:37:28,661 INFO  com.robocall.ProjectAddress :100 - query2
+2011-08-23 17:37:28,661 INFO  com.robocall.ProjectAddress :105 - 100 G123 Block1

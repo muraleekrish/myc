@@ -1,0 +1,1558 @@
+2011-08-17 11:34:26,169 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 11:34:26,216 INFO  com.robocall.CrewVerification :53 - http://st-63:8201/RoboCall3.0/Crew
+2011-08-17 11:34:26,216 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=survey_id&time=timestamp
+2011-08-17 11:34:26,216 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 11:34:26,216 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=survey_id&time=timestamp
+2011-08-17 11:38:16,503 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 11:38:16,503 INFO  com.robocall.CrewVerification :53 - http://st-63:8201/RoboCall3.0/Crew
+2011-08-17 11:38:16,503 INFO  com.robocall.CrewVerification :54 - CrewId=5&survoId=survey_id&time=timestamp
+2011-08-17 11:38:16,519 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 11:38:16,519 INFO  com.robocall.CrewVerification :60 - CrewId=5&survoId=survey_id&time=timestamp
+2011-08-17 11:38:30,988 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 11:38:30,988 INFO  com.robocall.CrewVerification :53 - http://st-63:8201/RoboCall3.0/Crew
+2011-08-17 11:38:30,988 INFO  com.robocall.CrewVerification :54 - CrewId=6&survoId=survey_id&time=timestamp
+2011-08-17 11:38:30,988 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 11:38:30,988 INFO  com.robocall.CrewVerification :60 - CrewId=6&survoId=survey_id&time=timestamp
+2011-08-17 11:38:39,316 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 11:38:39,316 INFO  com.robocall.CrewVerification :53 - http://st-63:8201/RoboCall3.0/Crew
+2011-08-17 11:38:39,316 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=survey_id&time=timestamp
+2011-08-17 11:38:39,332 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 11:38:39,332 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=survey_id&time=timestamp
+2011-08-17 11:55:53,452 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 11:55:53,452 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 11:55:53,452 INFO  com.robocall.CrewVerification :54 - CrewId=5&survoId=survey_id&time=timestamp
+2011-08-17 11:55:53,452 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 11:55:53,452 INFO  com.robocall.CrewVerification :60 - CrewId=5&survoId=survey_id&time=timestamp
+2011-08-17 11:56:31,484 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 11:56:31,484 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 11:56:31,484 INFO  com.robocall.CrewVerification :54 - CrewId=6&survoId=348121&time=11-08-17%2002%3A25%3A15
+2011-08-17 11:56:31,484 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 11:56:31,484 INFO  com.robocall.CrewVerification :60 - CrewId=6&survoId=348121&time=11-08-17%2002%3A25%3A15
+2011-08-17 11:56:43,156 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 11:56:43,156 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 11:56:43,156 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348181&time=11-08-17%2002%3A25%3A27
+2011-08-17 11:56:43,156 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 11:56:43,156 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348181&time=11-08-17%2002%3A25%3A27
+2011-08-17 11:56:58,688 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 11:56:58,688 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2&survoId=348131&pass=11
+2011-08-17 11:56:58,688 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 11:56:58,688 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2&survoId=348131&pass=11
+2011-08-17 11:56:58,719 INFO  com.robocall.ProjectAddress :95 - query2
+2011-08-17 11:57:10,001 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 11:57:10,001 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 11:57:10,001 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 11:57:10,001 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 11:57:10,048 INFO  com.robocall.ProjectAddress :95 - query2
+2011-08-17 12:02:23,259 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:02:23,259 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:02:23,259 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2002%3A31%3A07
+2011-08-17 12:02:23,259 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:02:23,259 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2002%3A31%3A07
+2011-08-17 12:02:42,525 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:02:42,525 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348131&pass=11
+2011-08-17 12:02:42,525 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:02:42,525 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348131&pass=11
+2011-08-17 12:02:42,525 INFO  com.robocall.ProjectAddress :95 - query2
+2011-08-17 12:06:24,343 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:06:24,343 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:06:24,343 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2002%3A35%3A08
+2011-08-17 12:06:24,343 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:06:24,359 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2002%3A35%3A08
+2011-08-17 12:06:38,812 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:06:38,812 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348131&pass=11
+2011-08-17 12:06:38,812 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:06:38,812 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348131&pass=11
+2011-08-17 12:06:38,828 INFO  com.robocall.ProjectAddress :95 - query2
+2011-08-17 12:06:55,906 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:06:55,906 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2627
+2011-08-17 12:06:55,906 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:06:55,906 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2627
+2011-08-17 12:07:09,313 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:07:09,313 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2627
+2011-08-17 12:07:09,313 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:07:09,313 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2627
+2011-08-17 12:08:06,080 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:08:06,080 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:08:06,080 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2002%3A36%3A50
+2011-08-17 12:08:06,080 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:08:06,080 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2002%3A36%3A50
+2011-08-17 12:08:19,487 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:08:19,487 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 12:08:19,487 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:08:19,487 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 12:08:19,518 INFO  com.robocall.ProjectAddress :95 - query2
+2011-08-17 12:09:07,504 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:09:07,504 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2627&pass=11P_T2626
+2011-08-17 12:09:07,504 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:09:07,504 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2627&pass=11P_T2626
+2011-08-17 12:09:18,816 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:09:18,816 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 12:09:18,816 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:09:18,816 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 12:09:18,816 INFO  com.robocall.ProjectAddress :95 - query2
+2011-08-17 12:09:38,879 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:09:38,879 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2627
+2011-08-17 12:09:38,879 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:09:38,879 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2627
+2011-08-17 12:10:00,364 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:10:00,364 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2627
+2011-08-17 12:10:00,364 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:10:00,364 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2627
+2011-08-17 12:15:10,653 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:15:10,653 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:15:10,653 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2002%3A43%3A54
+2011-08-17 12:15:10,653 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:15:10,653 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2002%3A43%3A54
+2011-08-17 12:15:25,279 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:15:25,279 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 12:15:25,279 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:15:25,279 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 12:15:25,310 INFO  com.robocall.ProjectAddress :95 - query2
+2011-08-17 12:15:52,123 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:15:52,123 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2627&pass=11P_T2626
+2011-08-17 12:15:52,123 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:15:52,123 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2627&pass=11P_T2626
+2011-08-17 12:16:06,858 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:16:06,858 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 12:16:06,858 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:16:06,858 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 12:16:06,889 INFO  com.robocall.ProjectAddress :95 - query2
+2011-08-17 12:16:23,765 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:16:23,765 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2627
+2011-08-17 12:16:23,765 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:16:23,765 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2627
+2011-08-17 12:16:43,625 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:16:43,640 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2627
+2011-08-17 12:16:43,640 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:16:43,640 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2627
+2011-08-17 12:23:03,004 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:23:03,019 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:23:03,019 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2002%3A51%3A46
+2011-08-17 12:23:03,019 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:23:03,019 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2002%3A51%3A46
+2011-08-17 12:23:17,235 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:23:17,235 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=26266&survoId=348131&pass=11
+2011-08-17 12:23:17,235 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:23:17,235 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=26266&survoId=348131&pass=11
+2011-08-17 12:23:17,266 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:23:29,811 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:23:29,811 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2626&survoId=348191&pass=11
+2011-08-17 12:23:29,811 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:23:29,811 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2626&survoId=348191&pass=11
+2011-08-17 12:23:29,811 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:23:29,826 INFO  com.robocall.ProjectAddress :100 - 234 B1 Block
+2011-08-17 12:23:57,883 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:23:57,883 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2627&pass=11P_T2626
+2011-08-17 12:23:57,883 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:23:57,883 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2627&pass=11P_T2626
+2011-08-17 12:24:09,334 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:24:09,334 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 12:24:09,334 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:24:09,334 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 12:24:09,334 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:24:09,334 INFO  com.robocall.ProjectAddress :100 - 387 C1 Block
+2011-08-17 12:24:26,549 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:24:26,549 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2627
+2011-08-17 12:24:26,549 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:24:26,549 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2627
+2011-08-17 12:24:42,936 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:24:42,936 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2627
+2011-08-17 12:24:42,936 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:24:42,936 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2627
+2011-08-17 12:24:43,186 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 12:24:43,186 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 12:25:10,602 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 12:25:10,602 INFO  com.robocall.HecStatusRequest :41 - pid=2626&survoid=348151&pass=11P_T2627
+2011-08-17 12:25:10,602 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 12:25:10,602 INFO  com.robocall.HecStatusRequest :46 - pid=2626&survoid=348151&pass=11P_T2627
+2011-08-17 12:25:10,602 INFO  com.robocall.HecStatusRequest :80 - visitnext2626
+2011-08-17 12:25:10,602 INFO  com.robocall.HecStatusRequest :82 - pas2627
+2011-08-17 12:25:10,602 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 12:25:10,602 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 12:25:41,299 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 12:25:41,299 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2627P_T2626
+2011-08-17 12:25:41,299 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 12:25:41,299 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2627P_T2626
+2011-08-17 12:25:41,299 INFO  com.robocall.HecSkipStatusRequest :84 - visitnextTo%20reenter%20the%20correct%20project%20identification%20number
+2011-08-17 12:25:41,299 INFO  com.robocall.HecSkipStatusRequest :86 - pas2627
+2011-08-17 12:25:54,484 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 12:25:54,484 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2627P_T2622
+2011-08-17 12:25:54,484 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 12:25:54,484 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2627P_T2622
+2011-08-17 12:25:54,578 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 12:36:46,553 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:36:46,553 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:36:46,553 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A05%3A30
+2011-08-17 12:36:46,553 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:36:46,553 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A05%3A30
+2011-08-17 12:37:00,538 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:37:00,538 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 12:37:00,538 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:37:00,538 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 12:37:00,569 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:37:00,569 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 12:37:36,772 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:37:36,772 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2624
+2011-08-17 12:37:36,772 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:37:36,772 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2624
+2011-08-17 12:37:48,038 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:37:48,038 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 12:37:48,053 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:37:48,053 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 12:37:48,053 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:37:48,053 INFO  com.robocall.ProjectAddress :100 - 694 D2 Block
+2011-08-17 12:38:11,569 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:38:11,569 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2622
+2011-08-17 12:38:11,585 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:38:11,585 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2622
+2011-08-17 12:38:36,616 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:38:36,632 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:38:36,632 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A07%3A20
+2011-08-17 12:38:36,632 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:38:36,632 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A07%3A20
+2011-08-17 12:38:49,070 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:38:49,070 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=6&survoId=348131&pass=11
+2011-08-17 12:38:49,070 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:38:49,070 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=6&survoId=348131&pass=11
+2011-08-17 12:38:49,101 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:39:16,804 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:39:16,804 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 12:39:16,804 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:39:16,820 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 12:39:41,367 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:39:41,367 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:39:41,367 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A08%3A25
+2011-08-17 12:39:41,367 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:39:41,367 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A08%3A25
+2011-08-17 12:39:58,508 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:39:58,524 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348131&pass=11
+2011-08-17 12:39:58,524 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:39:58,524 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348131&pass=11
+2011-08-17 12:39:58,524 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:39:58,524 INFO  com.robocall.ProjectAddress :100 - 694 D2 Block
+2011-08-17 12:40:16,899 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:40:16,899 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2622
+2011-08-17 12:40:16,899 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:40:16,899 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2622
+2011-08-17 12:40:44,352 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:40:44,352 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:40:44,352 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A09%3A28
+2011-08-17 12:40:44,352 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:40:44,352 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A09%3A28
+2011-08-17 12:40:59,368 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:40:59,368 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2616&survoId=348131&pass=11
+2011-08-17 12:40:59,368 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:40:59,368 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2616&survoId=348131&pass=11
+2011-08-17 12:40:59,399 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:41:09,821 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:41:09,821 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348191&pass=11
+2011-08-17 12:41:09,821 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:41:09,821 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348191&pass=11
+2011-08-17 12:41:09,821 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:41:09,821 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 12:41:27,603 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:41:27,603 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2624
+2011-08-17 12:41:27,603 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:41:27,603 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2624
+2011-08-17 12:41:38,041 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:41:38,041 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2624
+2011-08-17 12:41:38,041 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:41:38,041 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2624
+2011-08-17 12:45:02,935 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:45:02,950 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:45:02,950 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A13%3A46
+2011-08-17 12:45:02,950 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:45:02,950 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A13%3A46
+2011-08-17 12:45:26,623 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:45:26,638 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 12:45:26,638 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:45:26,638 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 12:45:26,670 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:45:26,670 INFO  com.robocall.ProjectAddress :100 - 794 E2 Block
+2011-08-17 12:45:43,623 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:45:43,623 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623
+2011-08-17 12:45:43,623 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:45:43,623 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623
+2011-08-17 12:45:56,154 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:45:56,154 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2623
+2011-08-17 12:45:56,154 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:45:56,154 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2623
+2011-08-17 12:46:24,202 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:46:24,202 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:46:24,202 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A15%3A08
+2011-08-17 12:46:24,202 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:46:24,202 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A15%3A08
+2011-08-17 12:46:41,218 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:46:41,218 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 12:46:41,218 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:46:41,218 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 12:46:41,249 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:46:41,265 INFO  com.robocall.ProjectAddress :100 - 594 D2 Block
+2011-08-17 12:47:09,359 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:47:09,359 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=21345&pass=11P_T2619
+2011-08-17 12:47:09,359 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:47:09,359 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=21345&pass=11P_T2619
+2011-08-17 12:47:21,422 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:47:21,422 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=69854&survoId=348191&pass=11
+2011-08-17 12:47:21,422 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:47:21,422 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=69854&survoId=348191&pass=11
+2011-08-17 12:47:21,453 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:47:32,422 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:47:32,422 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=65478&survoId=348191&pass=11
+2011-08-17 12:47:32,422 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:47:32,422 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=65478&survoId=348191&pass=11
+2011-08-17 12:47:32,453 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:47:48,797 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:47:48,797 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 12:47:48,797 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:47:48,797 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 12:49:20,518 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:49:20,518 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:49:20,518 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A18%3A04
+2011-08-17 12:49:20,518 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:49:20,518 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A18%3A04
+2011-08-17 12:49:37,238 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:49:37,238 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=26&survoId=348131&pass=11
+2011-08-17 12:49:37,238 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:49:37,238 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=26&survoId=348131&pass=11
+2011-08-17 12:49:37,269 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:49:48,457 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:49:48,457 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348191&pass=11
+2011-08-17 12:49:48,457 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:49:48,457 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348191&pass=11
+2011-08-17 12:49:48,457 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:49:48,457 INFO  com.robocall.ProjectAddress :100 - 594 D2 Block
+2011-08-17 12:50:15,692 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:50:15,692 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=3698&pass=11P_T2619
+2011-08-17 12:50:15,692 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:50:15,692 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=3698&pass=11P_T2619
+2011-08-17 12:50:31,395 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:50:31,395 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2623&survoId=348191&pass=11
+2011-08-17 12:50:31,395 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:50:31,395 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2623&survoId=348191&pass=11
+2011-08-17 12:50:31,395 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:50:31,395 INFO  com.robocall.ProjectAddress :100 - 794 E2 Block
+2011-08-17 12:50:48,505 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:50:48,505 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623
+2011-08-17 12:50:48,505 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:50:48,505 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623
+2011-08-17 12:51:11,146 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:51:11,146 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2623
+2011-08-17 12:51:11,146 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:51:11,146 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2623
+2011-08-17 12:51:44,303 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 12:51:44,303 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 12:51:44,303 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A20%3A28
+2011-08-17 12:51:44,303 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 12:51:44,303 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A20%3A28
+2011-08-17 12:52:00,194 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:52:00,194 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 12:52:00,194 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:52:00,194 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 12:52:00,210 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:52:00,210 INFO  com.robocall.ProjectAddress :100 - 594 D2 Block
+2011-08-17 12:52:29,289 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 12:52:29,289 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2619
+2011-08-17 12:52:29,289 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 12:52:29,289 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2619
+2011-08-17 12:52:41,977 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 12:52:41,977 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 12:52:41,977 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 12:52:41,977 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 12:52:42,008 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 12:52:42,008 INFO  com.robocall.ProjectAddress :100 - 694 D2 Block
+2011-08-17 12:53:00,149 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 12:53:00,149 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 12:53:00,149 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 12:53:00,149 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 12:53:00,399 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 12:53:00,399 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 12:53:22,493 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 12:53:22,493 INFO  com.robocall.HecStatusRequest :41 - pid=2632&survoid=348151&pass=11P_T2622
+2011-08-17 12:53:22,493 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 12:53:22,493 INFO  com.robocall.HecStatusRequest :46 - pid=2632&survoid=348151&pass=11P_T2622
+2011-08-17 12:53:22,493 INFO  com.robocall.HecStatusRequest :80 - visitnext2632
+2011-08-17 12:53:22,493 INFO  com.robocall.HecStatusRequest :82 - pas2622
+2011-08-17 12:53:22,493 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 12:53:22,525 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 12:53:39,478 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 12:53:39,478 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2622P_T2632
+2011-08-17 12:53:39,478 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 12:53:39,478 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2622P_T2632
+2011-08-17 12:53:51,791 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 12:53:51,791 INFO  com.robocall.CurrentLocationRequest :40 - notes=Goingdirectly&survoId=348171&pass=11P_T2622P_T2632
+2011-08-17 12:53:51,791 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 12:53:51,791 INFO  com.robocall.CurrentLocationRequest :45 - notes=Goingdirectly&survoId=348171&pass=11P_T2622P_T2632
+2011-08-17 12:53:51,900 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 13:07:09,718 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 13:07:09,718 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 13:07:09,718 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A35%3A53
+2011-08-17 13:07:09,718 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 13:07:09,718 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A35%3A53
+2011-08-17 13:07:26,906 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:07:26,906 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=1&survoId=348131&pass=11
+2011-08-17 13:07:26,906 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:07:26,906 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=1&survoId=348131&pass=11
+2011-08-17 13:07:26,937 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:07:38,734 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:07:38,734 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=21&survoId=348191&pass=11
+2011-08-17 13:07:38,734 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:07:38,734 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=21&survoId=348191&pass=11
+2011-08-17 13:07:38,765 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:08:08,610 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:08:08,610 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=61&survoId=348191&pass=11
+2011-08-17 13:08:08,610 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:08:08,610 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=61&survoId=348191&pass=11
+2011-08-17 13:08:08,641 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:08:25,360 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:08:25,360 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=261&survoId=348191&pass=11
+2011-08-17 13:08:25,360 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:08:25,360 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=261&survoId=348191&pass=11
+2011-08-17 13:08:25,391 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:08:35,579 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:08:35,579 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=261&survoId=348191&pass=11
+2011-08-17 13:08:35,579 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:08:35,579 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=261&survoId=348191&pass=11
+2011-08-17 13:08:35,579 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:08:45,673 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:08:45,689 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=22&survoId=348191&pass=11
+2011-08-17 13:08:45,689 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:08:45,689 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=22&survoId=348191&pass=11
+2011-08-17 13:08:45,720 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:08:56,736 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:08:56,736 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2661&survoId=348191&pass=11
+2011-08-17 13:08:56,736 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:08:56,736 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2661&survoId=348191&pass=11
+2011-08-17 13:08:56,767 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:09:09,330 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:09:09,330 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=8&survoId=348191&pass=11
+2011-08-17 13:09:09,330 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:09:09,330 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=8&survoId=348191&pass=11
+2011-08-17 13:09:09,361 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:09:32,987 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 13:09:32,987 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 13:09:32,987 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A38%3A17
+2011-08-17 13:09:32,987 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 13:09:32,987 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A38%3A17
+2011-08-17 13:09:49,784 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:09:49,784 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2631&survoId=348131&pass=11
+2011-08-17 13:09:49,784 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:09:49,784 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2631&survoId=348131&pass=11
+2011-08-17 13:09:49,816 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:09:49,816 INFO  com.robocall.ProjectAddress :100 - 517 P1 Block
+2011-08-17 13:10:08,441 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 13:10:08,441 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2631
+2011-08-17 13:10:08,441 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 13:10:08,441 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2631
+2011-08-17 13:10:27,301 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 13:10:27,301 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2631
+2011-08-17 13:10:27,301 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 13:10:27,301 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2631
+2011-08-17 13:12:54,617 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 13:12:54,617 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 13:12:54,617 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A41%3A38
+2011-08-17 13:12:54,617 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 13:12:54,617 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A41%3A38
+2011-08-17 13:13:09,477 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:13:09,477 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2631&survoId=348131&pass=11
+2011-08-17 13:13:09,477 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:13:09,477 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2631&survoId=348131&pass=11
+2011-08-17 13:13:09,492 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:13:09,492 INFO  com.robocall.ProjectAddress :100 - 517 P1 Block
+2011-08-17 13:13:37,915 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 13:13:37,915 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2619&pass=11P_T2631
+2011-08-17 13:13:37,915 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 13:13:37,915 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2619&pass=11P_T2631
+2011-08-17 13:13:54,416 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:13:54,416 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348191&pass=11
+2011-08-17 13:13:54,416 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:13:54,416 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348191&pass=11
+2011-08-17 13:13:54,431 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:13:54,431 INFO  com.robocall.ProjectAddress :100 - 594 D2 Block
+2011-08-17 13:14:12,166 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 13:14:12,166 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2619
+2011-08-17 13:14:12,166 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 13:14:12,166 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2619
+2011-08-17 13:14:12,182 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 13:14:12,182 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 13:14:37,557 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 13:14:37,557 INFO  com.robocall.HecStatusRequest :41 - pid=2631&survoid=348151&pass=11P_T2619
+2011-08-17 13:14:37,557 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 13:14:37,557 INFO  com.robocall.HecStatusRequest :46 - pid=2631&survoid=348151&pass=11P_T2619
+2011-08-17 13:14:37,557 INFO  com.robocall.HecStatusRequest :80 - visitnext2631
+2011-08-17 13:14:37,557 INFO  com.robocall.HecStatusRequest :82 - pas2619
+2011-08-17 13:14:37,557 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 13:14:37,557 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 13:14:49,229 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 13:14:49,229 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2619P_T2631
+2011-08-17 13:14:49,229 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 13:14:49,229 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2619P_T2631
+2011-08-17 13:14:49,276 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 13:16:41,842 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 13:16:41,842 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 13:16:41,842 INFO  com.robocall.CrewVerification :54 - CrewId=2&survoId=348121&time=11-08-17%2003%3A45%3A25
+2011-08-17 13:16:41,842 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 13:16:41,842 INFO  com.robocall.CrewVerification :60 - CrewId=2&survoId=348121&time=11-08-17%2003%3A45%3A25
+2011-08-17 13:16:44,654 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:16:44,654 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=NA&survoId=348131&pass=2
+2011-08-17 13:16:44,654 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:16:44,654 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=NA&survoId=348131&pass=2
+2011-08-17 13:17:07,827 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 13:17:07,827 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 13:17:07,827 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2003%3A45%3A51
+2011-08-17 13:17:07,827 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 13:17:07,827 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2003%3A45%3A51
+2011-08-17 13:17:26,577 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:17:26,577 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 13:17:26,577 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:17:26,577 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 13:17:26,608 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:17:26,608 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 13:17:53,547 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 13:17:53,547 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=32145&pass=11P_T2624
+2011-08-17 13:17:53,547 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 13:17:53,547 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=32145&pass=11P_T2624
+2011-08-17 13:18:04,531 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:18:04,531 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2631&survoId=348191&pass=11
+2011-08-17 13:18:04,531 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:18:04,531 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2631&survoId=348191&pass=11
+2011-08-17 13:18:04,563 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:18:04,563 INFO  com.robocall.ProjectAddress :100 - 517 P1 Block
+2011-08-17 13:18:22,250 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 13:18:22,266 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2631
+2011-08-17 13:18:22,266 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 13:18:22,266 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2631
+2011-08-17 13:18:22,501 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 13:18:22,501 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 13:18:45,532 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 13:18:45,532 INFO  com.robocall.HecStatusRequest :41 - pid=2623&survoid=348151&pass=11P_T2631
+2011-08-17 13:18:45,532 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 13:18:45,532 INFO  com.robocall.HecStatusRequest :46 - pid=2623&survoid=348151&pass=11P_T2631
+2011-08-17 13:18:45,532 INFO  com.robocall.HecStatusRequest :80 - visitnext2623
+2011-08-17 13:18:45,532 INFO  com.robocall.HecStatusRequest :82 - pas2631
+2011-08-17 13:18:45,532 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 13:18:45,564 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 13:18:58,658 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 13:18:58,658 INFO  com.robocall.CurrentLocationRequest :40 - notes=Goingdirectly&survoId=348171&pass=11P_T2631P_T2623
+2011-08-17 13:18:58,658 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 13:18:58,658 INFO  com.robocall.CurrentLocationRequest :45 - notes=Goingdirectly&survoId=348171&pass=11P_T2631P_T2623
+2011-08-17 13:18:58,767 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 13:20:19,066 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 13:20:19,066 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 13:20:19,066 INFO  com.robocall.CrewVerification :54 - CrewId=2626&survoId=348121&time=11-08-17%2003%3A49%3A03
+2011-08-17 13:20:19,066 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 13:20:19,066 INFO  com.robocall.CrewVerification :60 - CrewId=2626&survoId=348121&time=11-08-17%2003%3A49%3A03
+2011-08-17 13:20:30,848 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 13:20:30,848 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 13:20:30,848 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348181&time=11-08-17%2003%3A49%3A14
+2011-08-17 13:20:30,848 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 13:20:30,848 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348181&time=11-08-17%2003%3A49%3A14
+2011-08-17 13:20:46,035 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:20:46,035 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 13:20:46,035 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:20:46,035 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 13:20:46,067 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:20:46,082 INFO  com.robocall.ProjectAddress :100 - 234 B1 Block
+2011-08-17 13:21:03,255 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 13:21:03,255 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2626
+2011-08-17 13:21:03,255 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 13:21:03,255 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2626
+2011-08-17 13:21:21,661 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 13:21:21,661 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2626
+2011-08-17 13:21:21,661 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 13:21:21,661 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2626
+2011-08-17 13:21:21,677 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 13:21:21,677 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 13:21:45,287 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 13:21:45,287 INFO  com.robocall.HecStatusRequest :41 - pid=2632&survoid=348151&pass=11P_T2626
+2011-08-17 13:21:45,287 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 13:21:45,287 INFO  com.robocall.HecStatusRequest :46 - pid=2632&survoid=348151&pass=11P_T2626
+2011-08-17 13:21:45,287 INFO  com.robocall.HecStatusRequest :80 - visitnext2632
+2011-08-17 13:21:45,287 INFO  com.robocall.HecStatusRequest :82 - pas2626
+2011-08-17 13:21:45,287 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 13:21:45,318 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 13:22:34,054 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 13:22:34,054 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2623&pass=11P_T2626P_T2632
+2011-08-17 13:22:34,054 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 13:22:34,054 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2623&pass=11P_T2626P_T2632
+2011-08-17 13:22:34,054 INFO  com.robocall.HecSkipStatusRequest :84 - visitnextTo%20reenter%20the%20correct%20project%20identification%20number
+2011-08-17 13:22:34,054 INFO  com.robocall.HecSkipStatusRequest :86 - pas2626
+2011-08-17 13:22:46,554 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 13:22:46,554 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2626P_T2623
+2011-08-17 13:22:46,554 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 13:22:46,554 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2626P_T2623
+2011-08-17 13:22:46,585 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 13:33:47,821 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 13:33:47,821 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 13:33:47,821 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2004%3A02%3A31
+2011-08-17 13:33:47,821 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 13:33:47,821 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2004%3A02%3A31
+2011-08-17 13:34:03,665 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 13:34:03,665 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2632&survoId=348131&pass=11
+2011-08-17 13:34:03,681 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 13:34:03,681 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2632&survoId=348131&pass=11
+2011-08-17 13:34:03,681 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 13:34:03,681 INFO  com.robocall.ProjectAddress :100 - 5557 P1 Block
+2011-08-17 13:34:21,181 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 13:34:21,181 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2632
+2011-08-17 13:34:21,181 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 13:34:21,181 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2632
+2011-08-17 13:34:39,276 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 13:34:39,276 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2632
+2011-08-17 13:34:39,276 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 13:34:39,276 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2632
+2011-08-17 13:34:39,291 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 13:34:39,291 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 13:35:00,479 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 13:35:00,479 INFO  com.robocall.HecStatusRequest :41 - pid=2623&survoid=348151&pass=11P_T2632
+2011-08-17 13:35:00,479 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 13:35:00,479 INFO  com.robocall.HecStatusRequest :46 - pid=2623&survoid=348151&pass=11P_T2632
+2011-08-17 13:35:00,479 INFO  com.robocall.HecStatusRequest :80 - visitnext2623
+2011-08-17 13:35:00,479 INFO  com.robocall.HecStatusRequest :82 - pas2632
+2011-08-17 13:35:00,479 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 13:35:00,479 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 13:35:12,136 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 13:35:12,136 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2632P_T2623
+2011-08-17 13:35:12,136 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 13:35:12,136 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2632P_T2623
+2011-08-17 13:35:12,136 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 14:09:35,735 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 14:09:35,735 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 14:09:35,735 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2004%3A38%3A19
+2011-08-17 14:09:35,735 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 14:09:35,735 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2004%3A38%3A19
+2011-08-17 14:09:51,017 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:09:51,017 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 14:09:51,017 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:09:51,017 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 14:09:51,048 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:09:51,048 INFO  com.robocall.ProjectAddress :100 - 794 E2 Block
+2011-08-17 14:10:10,283 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 14:10:10,283 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2623
+2011-08-17 14:10:10,283 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 14:10:10,283 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2623
+2011-08-17 14:10:10,533 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 14:10:10,533 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 14:10:35,721 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 14:10:35,721 INFO  com.robocall.HecStatusRequest :41 - pid=2628&survoid=348151&pass=11P_T2623
+2011-08-17 14:10:35,721 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 14:10:35,721 INFO  com.robocall.HecStatusRequest :46 - pid=2628&survoid=348151&pass=11P_T2623
+2011-08-17 14:10:35,721 INFO  com.robocall.HecStatusRequest :80 - visitnext2628
+2011-08-17 14:10:35,721 INFO  com.robocall.HecStatusRequest :82 - pas2623
+2011-08-17 14:10:35,721 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 14:10:35,753 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 14:10:54,050 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 14:10:54,050 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623P_T2628
+2011-08-17 14:10:54,050 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 14:10:54,050 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623P_T2628
+2011-08-17 14:11:06,628 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 14:11:06,628 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2623P_T2628
+2011-08-17 14:11:06,628 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 14:11:06,628 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2623P_T2628
+2011-08-17 14:11:06,738 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 14:11:56,505 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 14:11:56,505 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 14:11:56,505 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2004%3A40%3A40
+2011-08-17 14:11:56,505 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 14:11:56,505 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2004%3A40%3A40
+2011-08-17 14:12:10,849 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:12:10,849 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=64&survoId=348131&pass=11
+2011-08-17 14:12:10,849 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:12:10,849 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=64&survoId=348131&pass=11
+2011-08-17 14:12:10,880 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:12:22,474 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:12:22,474 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=4&survoId=348191&pass=11
+2011-08-17 14:12:22,474 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:12:22,474 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=4&survoId=348191&pass=11
+2011-08-17 14:12:22,521 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:12:52,287 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:12:52,303 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=4&survoId=348191&pass=11
+2011-08-17 14:12:52,303 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:12:52,303 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=4&survoId=348191&pass=11
+2011-08-17 14:12:52,303 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:13:06,460 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:13:06,460 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=4&survoId=348191&pass=11
+2011-08-17 14:13:06,460 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:13:06,460 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=4&survoId=348191&pass=11
+2011-08-17 14:13:06,460 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:13:18,819 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:13:18,819 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=224&survoId=348191&pass=11
+2011-08-17 14:13:18,819 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:13:18,819 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=224&survoId=348191&pass=11
+2011-08-17 14:13:18,851 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:13:34,820 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:13:34,820 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348191&pass=11
+2011-08-17 14:13:34,820 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:13:34,820 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348191&pass=11
+2011-08-17 14:13:34,867 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:13:34,867 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 14:15:10,291 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 14:15:10,291 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 14:15:10,291 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2004%3A43%3A54
+2011-08-17 14:15:10,291 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 14:15:10,291 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2004%3A43%3A54
+2011-08-17 14:15:25,229 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:15:25,229 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=22624&survoId=348131&pass=11
+2011-08-17 14:15:25,229 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:15:25,229 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=22624&survoId=348131&pass=11
+2011-08-17 14:15:25,260 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:15:38,213 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 14:15:38,213 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2628&survoId=348191&pass=11
+2011-08-17 14:15:38,213 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 14:15:38,213 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2628&survoId=348191&pass=11
+2011-08-17 14:15:38,245 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 14:15:38,245 INFO  com.robocall.ProjectAddress :100 - 547 H1 Block
+2011-08-17 14:15:57,573 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 14:15:57,573 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2628
+2011-08-17 14:15:57,573 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 14:15:57,573 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2628
+2011-08-17 14:15:57,714 INFO  com.robocall.ConfirmationRequest :141 - success-3
+2011-08-17 14:16:09,011 INFO  com.robocall.AllHecUpdate :39 - http://192.168.1.63:8201/RoboCall3.0/AllHecUpdate
+2011-08-17 14:16:09,011 INFO  com.robocall.AllHecUpdate :40 - session=1108172191454897&survoid=348801&pass=11P_T2628
+2011-08-17 14:16:09,011 INFO  com.robocall.AllHecUpdate :44 - Invoked the All HEC Update servlet
+2011-08-17 14:16:09,011 INFO  com.robocall.AllHecUpdate :45 - session=1108172191454897&survoid=348801&pass=11P_T2628
+2011-08-17 14:16:09,105 INFO  com.robocall.AllHecUpdate :132 - Successfully completed
+2011-08-17 15:24:40,040 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:24:40,040 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:24:40,040 INFO  com.robocall.CrewVerification :54 - CrewId=77&survoId=348121&time=11-08-17%2005%3A53%3A24
+2011-08-17 15:24:40,040 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:24:40,040 INFO  com.robocall.CrewVerification :60 - CrewId=77&survoId=348121&time=11-08-17%2005%3A53%3A24
+2011-08-17 15:24:55,587 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:24:55,587 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:24:55,603 INFO  com.robocall.CrewVerification :54 - CrewId=NA&survoId=348181&time=11-08-17%2005%3A53%3A39
+2011-08-17 15:24:55,603 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:24:55,603 INFO  com.robocall.CrewVerification :60 - CrewId=NA&survoId=348181&time=11-08-17%2005%3A53%3A39
+2011-08-17 15:29:40,735 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:29:40,735 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:29:40,735 INFO  com.robocall.CrewVerification :54 - CrewId=10&survoId=348121&time=11-08-17%2005%3A58%3A24
+2011-08-17 15:29:40,735 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:29:40,735 INFO  com.robocall.CrewVerification :60 - CrewId=10&survoId=348121&time=11-08-17%2005%3A58%3A24
+2011-08-17 15:29:58,751 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:29:58,751 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:29:58,751 INFO  com.robocall.CrewVerification :54 - CrewId=111&survoId=348181&time=11-08-17%2005%3A58%3A42
+2011-08-17 15:29:58,751 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:29:58,751 INFO  com.robocall.CrewVerification :60 - CrewId=111&survoId=348181&time=11-08-17%2005%3A58%3A42
+2011-08-17 15:30:11,845 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:30:11,845 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:30:11,845 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348181&time=11-08-17%2005%3A58%3A55
+2011-08-17 15:30:11,845 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:30:11,845 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348181&time=11-08-17%2005%3A58%3A55
+2011-08-17 15:30:36,580 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:30:36,580 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2615&survoId=348131&pass=11
+2011-08-17 15:30:36,580 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:30:36,580 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2615&survoId=348131&pass=11
+2011-08-17 15:30:36,612 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:30:50,440 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:30:50,440 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 15:30:50,440 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:30:50,440 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 15:30:50,487 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:30:50,487 INFO  com.robocall.ProjectAddress :100 - 694 D2 Block
+2011-08-17 15:31:27,629 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 15:31:27,629 INFO  com.robocall.ConfirmationRequest :43 - Status=To%20Repeat%20Address&survoId=348141&pass=11P_T2622
+2011-08-17 15:31:27,629 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 15:31:27,629 INFO  com.robocall.ConfirmationRequest :48 - Status=To%20Repeat%20Address&survoId=348141&pass=11P_T2622
+2011-08-17 15:31:51,520 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:31:51,520 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:31:51,520 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A00%3A35
+2011-08-17 15:31:51,520 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:31:51,520 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A00%3A35
+2011-08-17 15:32:08,505 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:32:08,505 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=7&survoId=348131&pass=11
+2011-08-17 15:32:08,505 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:32:08,505 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=7&survoId=348131&pass=11
+2011-08-17 15:32:08,536 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:32:39,615 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:32:39,615 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348191&pass=11
+2011-08-17 15:32:39,615 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:32:39,615 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348191&pass=11
+2011-08-17 15:32:39,646 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:32:39,646 INFO  com.robocall.ProjectAddress :100 - 594 D2 Block
+2011-08-17 15:33:11,600 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:33:11,600 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2631&pass=11P_T2619
+2011-08-17 15:33:11,616 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:33:11,616 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2631&pass=11P_T2619
+2011-08-17 15:34:02,726 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:34:02,726 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 15:34:02,726 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:34:02,726 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 15:34:02,742 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:34:02,742 INFO  com.robocall.ProjectAddress :100 - 694 D2 Block
+2011-08-17 15:34:24,118 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 15:34:24,118 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 15:34:24,118 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 15:34:24,118 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 15:34:24,368 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 15:34:24,368 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 15:34:50,462 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 15:34:50,462 INFO  com.robocall.HecStatusRequest :41 - pid=2619&survoid=348151&pass=11P_T2622
+2011-08-17 15:34:50,462 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 15:34:50,462 INFO  com.robocall.HecStatusRequest :46 - pid=2619&survoid=348151&pass=11P_T2622
+2011-08-17 15:34:50,462 INFO  com.robocall.HecStatusRequest :80 - visitnext2619
+2011-08-17 15:34:50,462 INFO  com.robocall.HecStatusRequest :82 - pas2622
+2011-08-17 15:34:50,462 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 15:34:50,478 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 15:35:07,134 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 15:35:07,134 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2622P_T2619
+2011-08-17 15:35:07,134 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 15:35:07,134 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2622P_T2619
+2011-08-17 15:35:07,259 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 15:38:35,202 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:38:35,202 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:38:35,218 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A07%3A19
+2011-08-17 15:38:35,218 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:38:35,218 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A07%3A19
+2011-08-17 15:38:52,843 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:38:52,843 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2631&survoId=348131&pass=11
+2011-08-17 15:38:52,843 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:38:52,843 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2631&survoId=348131&pass=11
+2011-08-17 15:38:52,874 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:38:52,874 INFO  com.robocall.ProjectAddress :100 - 517 P1 Block
+2011-08-17 15:39:18,328 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:39:18,328 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=NA&pid=NA&pass=11P_T2631
+2011-08-17 15:39:18,328 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:39:18,328 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=NA&pid=NA&pass=11P_T2631
+2011-08-17 15:40:20,767 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:40:20,767 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:40:20,767 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A09%3A04
+2011-08-17 15:40:20,767 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:40:20,767 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A09%3A04
+2011-08-17 15:40:40,143 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:40:40,143 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 15:40:40,143 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:40:40,143 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 15:40:40,190 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:40:40,190 INFO  com.robocall.ProjectAddress :100 - 794 E2 Block
+2011-08-17 15:41:10,487 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:41:10,487 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=NA&pid=NA&pass=11P_T2623
+2011-08-17 15:41:10,487 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:41:10,487 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=NA&pid=NA&pass=11P_T2623
+2011-08-17 15:42:06,489 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:42:06,489 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:42:06,489 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A10%3A50
+2011-08-17 15:42:06,489 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:42:06,489 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A10%3A50
+2011-08-17 15:42:22,552 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:42:22,552 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2628&survoId=348131&pass=11
+2011-08-17 15:42:22,552 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:42:22,552 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2628&survoId=348131&pass=11
+2011-08-17 15:42:22,583 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:42:22,583 INFO  com.robocall.ProjectAddress :100 - 547 H1 Block
+2011-08-17 15:42:58,990 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:42:58,990 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2624&pass=11P_T2628
+2011-08-17 15:42:58,990 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:42:58,990 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2624&pass=11P_T2628
+2011-08-17 15:43:27,272 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:43:27,272 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348191&pass=11
+2011-08-17 15:43:27,272 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:43:27,272 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348191&pass=11
+2011-08-17 15:43:27,303 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:43:27,303 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 15:43:59,976 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:43:59,976 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2626&pass=11P_T2624
+2011-08-17 15:43:59,976 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:43:59,976 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2626&pass=11P_T2624
+2011-08-17 15:44:20,727 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:44:20,727 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 15:44:20,727 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:44:20,727 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 15:44:42,321 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:44:42,321 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:44:42,321 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A13%3A26
+2011-08-17 15:44:42,321 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:44:42,321 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A13%3A26
+2011-08-17 15:44:57,837 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:44:57,837 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 15:44:57,837 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:44:57,837 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 15:44:57,837 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:44:57,837 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 15:45:29,869 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:45:29,869 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2623&pass=11P_T2624
+2011-08-17 15:45:29,869 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:45:29,869 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2623&pass=11P_T2624
+2011-08-17 15:45:44,026 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:45:44,026 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2623&survoId=348191&pass=11
+2011-08-17 15:45:44,026 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:45:44,026 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2623&survoId=348191&pass=11
+2011-08-17 15:45:44,072 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:45:44,072 INFO  com.robocall.ProjectAddress :100 - 794 E2 Block
+2011-08-17 15:46:18,605 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:46:18,605 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2619&pass=11P_T2623
+2011-08-17 15:46:18,605 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:46:18,605 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2619&pass=11P_T2623
+2011-08-17 15:46:30,777 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:46:30,777 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348191&pass=11
+2011-08-17 15:46:30,777 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:46:30,777 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348191&pass=11
+2011-08-17 15:46:30,808 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:46:30,808 INFO  com.robocall.ProjectAddress :100 - 594 D2 Block
+2011-08-17 15:47:01,106 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:47:01,106 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2619
+2011-08-17 15:47:01,106 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:47:01,106 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2619
+2011-08-17 15:47:14,278 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:47:14,278 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 15:47:14,278 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:47:14,278 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 15:47:14,309 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:47:14,309 INFO  com.robocall.ProjectAddress :100 - 694 D2 Block
+2011-08-17 15:48:04,060 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 15:48:04,060 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 15:48:04,076 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 15:48:04,076 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 15:48:04,310 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 15:48:04,310 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 15:48:33,639 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 15:48:33,639 INFO  com.robocall.HecStatusRequest :41 - pid=2626&survoid=348151&pass=11P_T2622
+2011-08-17 15:48:33,639 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 15:48:33,639 INFO  com.robocall.HecStatusRequest :46 - pid=2626&survoid=348151&pass=11P_T2622
+2011-08-17 15:48:33,639 INFO  com.robocall.HecStatusRequest :80 - visitnext2626
+2011-08-17 15:48:33,639 INFO  com.robocall.HecStatusRequest :82 - pas2622
+2011-08-17 15:48:33,639 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 15:48:33,686 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 15:48:52,671 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 15:48:52,671 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2622P_T2626
+2011-08-17 15:48:52,671 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 15:48:52,671 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2622P_T2626
+2011-08-17 15:49:09,781 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 15:49:09,781 INFO  com.robocall.CurrentLocationRequest :40 - notes=NA&survoId=348171&pass=11P_T2622P_T2626
+2011-08-17 15:49:09,781 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 15:49:09,781 INFO  com.robocall.CurrentLocationRequest :45 - notes=NA&survoId=348171&pass=11P_T2622P_T2626
+2011-08-17 15:49:09,875 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 15:50:44,127 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:50:44,127 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:50:44,127 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A19%3A28
+2011-08-17 15:50:44,127 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:50:44,127 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A19%3A28
+2011-08-17 15:50:58,237 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:50:58,237 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348131&pass=11
+2011-08-17 15:50:58,237 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:50:58,237 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348131&pass=11
+2011-08-17 15:50:58,237 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:51:08,518 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:51:08,518 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 15:51:08,518 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:51:08,518 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 15:51:08,518 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:51:20,644 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:51:20,644 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2&survoId=348191&pass=11
+2011-08-17 15:51:20,644 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:51:20,644 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2&survoId=348191&pass=11
+2011-08-17 15:51:20,675 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:51:32,347 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:51:32,347 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2628&survoId=348191&pass=11
+2011-08-17 15:51:32,347 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:51:32,347 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2628&survoId=348191&pass=11
+2011-08-17 15:51:32,378 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:51:32,378 INFO  com.robocall.ProjectAddress :100 - 547 H1 Block
+2011-08-17 15:51:49,472 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:51:49,472 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2628
+2011-08-17 15:51:49,472 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:51:49,472 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2628
+2011-08-17 15:51:54,723 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 15:51:54,723 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2628
+2011-08-17 15:51:54,723 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 15:51:54,723 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2628
+2011-08-17 15:52:22,255 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 15:52:22,270 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 15:52:22,270 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A21%3A06
+2011-08-17 15:52:22,270 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 15:52:22,270 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A21%3A06
+2011-08-17 15:52:37,239 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 15:52:37,239 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2628&survoId=348131&pass=11
+2011-08-17 15:52:37,239 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 15:52:37,239 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2628&survoId=348131&pass=11
+2011-08-17 15:52:37,239 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 15:52:37,239 INFO  com.robocall.ProjectAddress :100 - 547 H1 Block
+2011-08-17 15:53:01,240 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 15:53:01,256 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=NA&pass=11P_T2628
+2011-08-17 15:53:01,256 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 15:53:01,256 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=NA&pass=11P_T2628
+2011-08-17 16:10:14,641 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:10:14,641 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:10:14,641 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A38%3A58
+2011-08-17 16:10:14,641 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:10:14,641 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A38%3A58
+2011-08-17 16:10:33,189 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:10:33,189 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 16:10:33,189 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:10:33,189 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 16:10:33,189 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:10:33,189 INFO  com.robocall.ProjectAddress :100 - 234 B1 Block
+2011-08-17 16:10:55,127 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:10:55,127 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2626
+2011-08-17 16:10:55,127 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:10:55,127 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2626
+2011-08-17 16:11:00,924 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 16:11:00,924 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2626
+2011-08-17 16:11:00,924 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 16:11:00,924 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2626
+2011-08-17 16:11:25,112 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:11:25,112 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:11:25,112 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A40%3A09
+2011-08-17 16:11:25,112 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:11:25,112 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A40%3A09
+2011-08-17 16:11:44,972 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:11:44,972 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 16:11:44,972 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:11:44,972 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2626&survoId=348131&pass=11
+2011-08-17 16:11:44,972 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:11:44,972 INFO  com.robocall.ProjectAddress :100 - 234 B1 Block
+2011-08-17 16:12:19,176 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:12:19,176 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2631&pass=11P_T2626
+2011-08-17 16:12:19,176 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:12:19,176 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2631&pass=11P_T2626
+2011-08-17 16:12:45,739 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:12:45,739 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 16:12:45,739 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:12:45,739 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 16:27:50,200 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:27:50,200 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:27:50,200 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A56%3A33
+2011-08-17 16:27:50,200 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:27:50,200 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A56%3A33
+2011-08-17 16:28:04,747 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:28:04,747 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 16:28:04,747 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:28:04,747 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 16:28:04,778 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:28:04,778 INFO  com.robocall.ProjectAddress :100 - 794 E2 Block
+2011-08-17 16:28:38,607 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:28:38,607 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2619&pass=11P_T2623
+2011-08-17 16:28:38,607 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:28:38,607 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2619&pass=11P_T2623
+2011-08-17 16:28:38,638 INFO  com.robocall.ProjectSkipAddressRequest :103 - 594 D2 Block
+2011-08-17 16:28:58,061 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:28:58,061 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2619
+2011-08-17 16:28:58,061 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:28:58,061 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2619
+2011-08-17 16:29:07,405 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 16:29:07,405 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2619
+2011-08-17 16:29:07,405 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 16:29:07,405 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2619
+2011-08-17 16:29:36,312 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:29:36,312 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:29:36,312 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2006%3A58%3A20
+2011-08-17 16:29:36,312 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:29:36,312 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2006%3A58%3A20
+2011-08-17 16:29:51,187 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:29:51,187 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2628&survoId=348131&pass=11
+2011-08-17 16:29:51,187 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:29:51,187 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2628&survoId=348131&pass=11
+2011-08-17 16:29:51,218 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:29:51,218 INFO  com.robocall.ProjectAddress :100 - 547 H1 Block
+2011-08-17 16:30:20,391 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:30:20,391 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2626&pass=11P_T2628
+2011-08-17 16:30:20,391 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:30:20,391 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2626&pass=11P_T2628
+2011-08-17 16:30:20,422 INFO  com.robocall.ProjectSkipAddressRequest :103 - 234 B1 Block
+2011-08-17 16:30:48,485 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:30:48,485 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2626
+2011-08-17 16:30:48,485 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:30:48,485 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2626
+2011-08-17 16:30:48,532 INFO  com.robocall.ProjectSkipAddressRequest :103 - 694 D2 Block
+2011-08-17 16:31:06,533 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 16:31:06,533 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 16:31:06,533 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 16:31:06,533 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 16:31:06,783 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 16:31:06,783 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 16:31:29,346 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 16:31:29,346 INFO  com.robocall.HecStatusRequest :41 - pid=231&survoid=348151&pass=11P_T2622
+2011-08-17 16:31:29,346 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 16:31:29,346 INFO  com.robocall.HecStatusRequest :46 - pid=231&survoid=348151&pass=11P_T2622
+2011-08-17 16:31:29,346 INFO  com.robocall.HecStatusRequest :80 - visitnext231
+2011-08-17 16:31:29,346 INFO  com.robocall.HecStatusRequest :82 - pas2622
+2011-08-17 16:31:29,346 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 16:31:29,377 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 16:31:44,143 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 16:31:44,143 INFO  com.robocall.HecStatusRequest :41 - pid=2631&Hec=348201&pass=11P_T2622
+2011-08-17 16:31:44,143 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 16:31:44,143 INFO  com.robocall.HecStatusRequest :46 - pid=2631&Hec=348201&pass=11P_T2622
+2011-08-17 16:31:44,143 INFO  com.robocall.HecStatusRequest :80 - visitnext2631
+2011-08-17 16:31:44,143 INFO  com.robocall.HecStatusRequest :82 - pas2622
+2011-08-17 16:31:44,143 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 16:31:44,174 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 16:32:13,503 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:32:13,503 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=269&pass=11P_T2622P_T2631
+2011-08-17 16:32:13,503 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:32:13,503 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=269&pass=11P_T2622P_T2631
+2011-08-17 16:32:13,503 INFO  com.robocall.HecSkipStatusRequest :84 - visitnextTo%20reenter%20the%20correct%20project%20identification%20number
+2011-08-17 16:32:13,519 INFO  com.robocall.HecSkipStatusRequest :86 - pas2622
+2011-08-17 16:32:31,785 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:32:31,785 INFO  com.robocall.HecSkipStatusRequest :41 - optexc=350381&pid=2619&pass=11P_T2622P_T2631
+2011-08-17 16:32:31,785 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:32:31,785 INFO  com.robocall.HecSkipStatusRequest :46 - optexc=350381&pid=2619&pass=11P_T2622P_T2631
+2011-08-17 16:32:31,785 INFO  com.robocall.HecSkipStatusRequest :84 - visitnext350381
+2011-08-17 16:32:31,785 INFO  com.robocall.HecSkipStatusRequest :86 - pas2622
+2011-08-17 16:32:43,707 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 16:32:43,707 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2622P_T2619
+2011-08-17 16:32:43,707 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 16:32:43,707 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2622P_T2619
+2011-08-17 16:32:43,801 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 16:39:39,077 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:39:39,077 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:39:39,077 INFO  com.robocall.CrewVerification :54 - CrewId=88&survoId=348121&time=11-08-17%2007%3A08%3A23
+2011-08-17 16:39:39,077 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:39:39,077 INFO  com.robocall.CrewVerification :60 - CrewId=88&survoId=348121&time=11-08-17%2007%3A08%3A23
+2011-08-17 16:39:52,499 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:39:52,499 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:39:52,499 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348181&time=11-08-17%2007%3A08%3A36
+2011-08-17 16:39:52,499 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:39:52,499 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348181&time=11-08-17%2007%3A08%3A36
+2011-08-17 16:40:06,578 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:40:06,578 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2614&survoId=348131&pass=11
+2011-08-17 16:40:06,578 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:40:06,593 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2614&survoId=348131&pass=11
+2011-08-17 16:40:06,609 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:40:18,016 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:40:18,016 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2614&survoId=348191&pass=11
+2011-08-17 16:40:18,016 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:40:18,016 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2614&survoId=348191&pass=11
+2011-08-17 16:40:18,016 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:40:35,547 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:40:35,547 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 16:40:35,547 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:40:35,547 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2622&survoId=348191&pass=11
+2011-08-17 16:40:35,547 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:40:35,547 INFO  com.robocall.ProjectAddress :100 - 694 D2 Block
+2011-08-17 16:40:41,719 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 16:40:41,719 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2622
+2011-08-17 16:40:41,719 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 16:40:41,719 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2622
+2011-08-17 16:41:19,423 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:41:19,423 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:41:19,423 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A10%3A03
+2011-08-17 16:41:19,423 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:41:19,423 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A10%3A03
+2011-08-17 16:41:35,643 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:41:35,643 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 16:41:35,643 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:41:35,643 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 16:41:35,674 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:41:35,674 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 16:42:08,347 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:42:08,347 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2624
+2011-08-17 16:42:08,347 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:42:08,347 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2622&pass=11P_T2624
+2011-08-17 16:42:08,347 INFO  com.robocall.ProjectSkipAddressRequest :103 - 694 D2 Block
+2011-08-17 16:42:44,144 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 16:42:44,144 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 16:42:44,160 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 16:42:44,160 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2622
+2011-08-17 16:42:44,176 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 16:42:44,176 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 16:43:08,270 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 16:43:08,270 INFO  com.robocall.HecStatusRequest :41 - pid=2624&survoid=348151&pass=11P_T2622
+2011-08-17 16:43:08,270 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 16:43:08,270 INFO  com.robocall.HecStatusRequest :46 - pid=2624&survoid=348151&pass=11P_T2622
+2011-08-17 16:43:08,270 INFO  com.robocall.HecStatusRequest :80 - visitnext2624
+2011-08-17 16:43:08,270 INFO  com.robocall.HecStatusRequest :82 - pas2622
+2011-08-17 16:43:08,270 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 16:43:08,270 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 16:43:41,802 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:43:41,802 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2631&pass=11P_T2622P_T2624
+2011-08-17 16:43:41,802 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:43:41,802 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2631&pass=11P_T2622P_T2624
+2011-08-17 16:43:41,802 INFO  com.robocall.HecSkipStatusRequest :84 - visitnextTo%20reenter%20the%20correct%20project%20identification%20number
+2011-08-17 16:43:41,802 INFO  com.robocall.HecSkipStatusRequest :86 - pas2622
+2011-08-17 16:44:17,928 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:44:17,928 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2632&pass=11P_T2622P_T2631
+2011-08-17 16:44:17,928 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:44:17,928 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2632&pass=11P_T2622P_T2631
+2011-08-17 16:44:17,928 INFO  com.robocall.HecSkipStatusRequest :84 - visitnextTo%20reenter%20the%20correct%20project%20identification%20number
+2011-08-17 16:44:17,928 INFO  com.robocall.HecSkipStatusRequest :86 - pas2622
+2011-08-17 16:44:37,679 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:44:37,679 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2622P_T2632
+2011-08-17 16:44:37,679 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:44:37,679 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2622P_T2632
+2011-08-17 16:44:49,538 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 16:44:49,538 INFO  com.robocall.CurrentLocationRequest :40 - notes=NA&survoId=348171&pass=11P_T2622P_T2632
+2011-08-17 16:44:49,538 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 16:44:49,538 INFO  com.robocall.CurrentLocationRequest :45 - notes=NA&survoId=348171&pass=11P_T2622P_T2632
+2011-08-17 16:44:49,569 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 16:46:19,462 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:46:19,462 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:46:19,462 INFO  com.robocall.CrewVerification :54 - CrewId=2626&survoId=348121&time=11-08-17%2007%3A15%3A03
+2011-08-17 16:46:19,462 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:46:19,462 INFO  com.robocall.CrewVerification :60 - CrewId=2626&survoId=348121&time=11-08-17%2007%3A15%3A03
+2011-08-17 16:46:30,010 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:46:30,010 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:46:30,010 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=348181&time=11-08-17%2007%3A15%3A14
+2011-08-17 16:46:30,010 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:46:30,010 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=348181&time=11-08-17%2007%3A15%3A14
+2011-08-17 16:46:43,635 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:46:43,635 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=NA&survoId=348131&pass=1
+2011-08-17 16:46:43,635 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:46:43,635 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=NA&survoId=348131&pass=1
+2011-08-17 16:47:05,823 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:47:05,823 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:47:05,823 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A15%3A49
+2011-08-17 16:47:05,823 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:47:05,823 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A15%3A49
+2011-08-17 16:47:41,918 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:47:41,918 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 16:47:41,918 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:47:41,918 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 16:47:41,949 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:47:41,949 INFO  com.robocall.ProjectAddress :100 - 794 E2 Block
+2011-08-17 16:48:04,559 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:48:04,559 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=NA&pid=NA&pass=11P_T2623
+2011-08-17 16:48:04,559 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:48:04,559 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=NA&pid=NA&pass=11P_T2623
+2011-08-17 16:48:28,903 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:48:28,903 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:48:28,903 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A17%3A12
+2011-08-17 16:48:28,903 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:48:28,903 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A17%3A12
+2011-08-17 16:48:43,435 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:48:43,435 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2632&survoId=348131&pass=11
+2011-08-17 16:48:43,435 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:48:43,435 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2632&survoId=348131&pass=11
+2011-08-17 16:48:43,466 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:48:43,466 INFO  com.robocall.ProjectAddress :100 - 5557 P1 Block
+2011-08-17 16:49:04,435 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:49:04,435 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2632
+2011-08-17 16:49:04,435 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:49:04,435 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2632
+2011-08-17 16:49:24,170 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 16:49:24,170 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2632
+2011-08-17 16:49:24,170 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 16:49:24,170 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2632
+2011-08-17 16:49:24,420 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 16:49:24,420 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 16:49:49,577 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 16:49:49,577 INFO  com.robocall.HecStatusRequest :41 - pid=2626&survoid=348151&pass=11P_T2632
+2011-08-17 16:49:49,577 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 16:49:49,577 INFO  com.robocall.HecStatusRequest :46 - pid=2626&survoid=348151&pass=11P_T2632
+2011-08-17 16:49:49,577 INFO  com.robocall.HecStatusRequest :80 - visitnext2626
+2011-08-17 16:49:49,577 INFO  com.robocall.HecStatusRequest :82 - pas2632
+2011-08-17 16:49:49,577 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 16:49:49,608 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 16:50:20,000 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:50:20,000 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2632&pass=11P_T2632P_T2626
+2011-08-17 16:50:20,000 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:50:20,000 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2632&pass=11P_T2632P_T2626
+2011-08-17 16:50:20,000 INFO  com.robocall.HecSkipStatusRequest :84 - visitnextTo%20reenter%20the%20correct%20project%20identification%20number
+2011-08-17 16:50:20,000 INFO  com.robocall.HecSkipStatusRequest :86 - pas2632
+2011-08-17 16:50:32,578 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:50:32,578 INFO  com.robocall.HecSkipStatusRequest :41 - optexc=350381&pid=2665&pass=11P_T2632P_T2626
+2011-08-17 16:50:32,578 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:50:32,578 INFO  com.robocall.HecSkipStatusRequest :46 - optexc=350381&pid=2665&pass=11P_T2632P_T2626
+2011-08-17 16:50:32,578 INFO  com.robocall.HecSkipStatusRequest :84 - visitnext350381
+2011-08-17 16:50:32,578 INFO  com.robocall.HecSkipStatusRequest :86 - pas2632
+2011-08-17 16:50:47,688 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:50:47,688 INFO  com.robocall.HecSkipStatusRequest :41 - optexc=350381&pid=2623&pass=11P_T2632P_T2626
+2011-08-17 16:50:47,688 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:50:47,688 INFO  com.robocall.HecSkipStatusRequest :46 - optexc=350381&pid=2623&pass=11P_T2632P_T2626
+2011-08-17 16:50:47,688 INFO  com.robocall.HecSkipStatusRequest :84 - visitnext350381
+2011-08-17 16:50:47,688 INFO  com.robocall.HecSkipStatusRequest :86 - pas2632
+2011-08-17 16:51:09,048 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:51:09,048 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2632P_T2623
+2011-08-17 16:51:09,048 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:51:09,048 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2632P_T2623
+2011-08-17 16:51:22,064 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 16:51:22,064 INFO  com.robocall.CurrentLocationRequest :40 - notes=Goingdirectly&survoId=348171&pass=11P_T2632P_T2623
+2011-08-17 16:51:22,064 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 16:51:22,064 INFO  com.robocall.CurrentLocationRequest :45 - notes=Goingdirectly&survoId=348171&pass=11P_T2632P_T2623
+2011-08-17 16:51:22,142 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 16:52:53,613 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:52:53,613 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:52:53,613 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A21%3A37
+2011-08-17 16:52:53,613 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:52:53,613 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A21%3A37
+2011-08-17 16:53:09,676 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:53:09,676 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 16:53:09,676 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:53:09,676 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2623&survoId=348131&pass=11
+2011-08-17 16:53:09,676 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:53:09,676 INFO  com.robocall.ProjectAddress :100 - 794 E2 Block
+2011-08-17 16:53:51,271 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:53:51,271 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623
+2011-08-17 16:53:51,271 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:53:51,271 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623
+2011-08-17 16:54:09,662 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 16:54:09,662 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2623
+2011-08-17 16:54:09,662 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 16:54:09,662 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2623
+2011-08-17 16:54:09,678 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 16:54:09,678 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 16:54:34,319 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 16:54:34,319 INFO  com.robocall.HecStatusRequest :41 - pid=2628&survoid=348151&pass=11P_T2623
+2011-08-17 16:54:34,319 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 16:54:34,319 INFO  com.robocall.HecStatusRequest :46 - pid=2628&survoid=348151&pass=11P_T2623
+2011-08-17 16:54:34,319 INFO  com.robocall.HecStatusRequest :80 - visitnext2628
+2011-08-17 16:54:34,319 INFO  com.robocall.HecStatusRequest :82 - pas2623
+2011-08-17 16:54:34,319 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 16:54:34,350 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 16:55:16,054 INFO  com.robocall.HecSkipStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecSkipStatus
+2011-08-17 16:55:16,054 INFO  com.robocall.HecSkipStatusRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623P_T2628
+2011-08-17 16:55:16,054 INFO  com.robocall.HecSkipStatusRequest :45 - ok
+2011-08-17 16:55:16,054 INFO  com.robocall.HecSkipStatusRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2623P_T2628
+2011-08-17 16:55:29,992 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 16:55:29,992 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2623P_T2628
+2011-08-17 16:55:29,992 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 16:55:29,992 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2623P_T2628
+2011-08-17 16:55:30,039 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 16:57:36,028 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 16:57:36,028 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 16:57:36,028 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A26%3A19
+2011-08-17 16:57:36,028 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 16:57:36,028 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A26%3A19
+2011-08-17 16:57:51,524 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 16:57:51,524 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2631&survoId=348131&pass=11
+2011-08-17 16:57:51,524 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 16:57:51,524 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2631&survoId=348131&pass=11
+2011-08-17 16:57:51,555 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 16:57:51,555 INFO  com.robocall.ProjectAddress :100 - 517 P1 Block
+2011-08-17 16:58:44,871 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:58:44,871 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2628&pass=11P_T2631
+2011-08-17 16:58:44,871 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:58:44,871 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2628&pass=11P_T2631
+2011-08-17 16:58:44,871 INFO  com.robocall.ProjectSkipAddressRequest :103 - 547 H1 Block
+2011-08-17 16:59:04,898 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 16:59:04,898 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2628
+2011-08-17 16:59:04,898 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 16:59:04,898 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20continue%20with%20the%20entered%20project%20identification%20number&pid=NA&pass=11P_T2628
+2011-08-17 16:59:39,639 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 16:59:39,639 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2628
+2011-08-17 16:59:39,639 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 16:59:39,639 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2628
+2011-08-17 16:59:39,655 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 16:59:39,655 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 17:00:03,680 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 17:00:03,680 INFO  com.robocall.HecStatusRequest :41 - pid=2619&survoid=348151&pass=11P_T2628
+2011-08-17 17:00:03,680 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 17:00:03,680 INFO  com.robocall.HecStatusRequest :46 - pid=2619&survoid=348151&pass=11P_T2628
+2011-08-17 17:00:03,680 INFO  com.robocall.HecStatusRequest :80 - visitnext2619
+2011-08-17 17:00:03,680 INFO  com.robocall.HecStatusRequest :82 - pas2628
+2011-08-17 17:00:03,680 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 17:00:03,712 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 17:00:42,656 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 17:00:42,656 INFO  com.robocall.CurrentLocationRequest :40 - notes=Goingdirectly&survoId=348171&pass=11P_T2628P_T2619
+2011-08-17 17:00:42,656 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 17:00:42,656 INFO  com.robocall.CurrentLocationRequest :45 - notes=Goingdirectly&survoId=348171&pass=11P_T2628P_T2619
+2011-08-17 17:00:42,703 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 17:01:28,934 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 17:01:28,949 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 17:01:28,949 INFO  com.robocall.CrewVerification :54 - CrewId=14&survoId=348121&time=11-08-17%2007%3A30%3A12
+2011-08-17 17:01:28,949 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 17:01:28,949 INFO  com.robocall.CrewVerification :60 - CrewId=14&survoId=348121&time=11-08-17%2007%3A30%3A12
+2011-08-17 17:01:43,589 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 17:01:43,589 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 17:01:43,589 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348181&time=11-08-17%2007%3A30%3A27
+2011-08-17 17:01:43,589 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 17:01:43,589 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348181&time=11-08-17%2007%3A30%3A27
+2011-08-17 17:02:01,228 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:02:01,244 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 17:02:01,244 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:02:01,244 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 17:02:01,244 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:02:01,244 INFO  com.robocall.ProjectAddress :100 - 594 D2 Block
+2011-08-17 17:02:20,196 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 17:02:20,196 INFO  com.robocall.ConfirmationRequest :43 - Status=NA&survoId=348141&pass=11P_T2619
+2011-08-17 17:02:20,196 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 17:02:20,196 INFO  com.robocall.ConfirmationRequest :48 - Status=NA&survoId=348141&pass=11P_T2619
+2011-08-17 17:02:53,881 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 17:02:53,881 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 17:02:53,881 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A31%3A37
+2011-08-17 17:02:53,881 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 17:02:53,881 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A31%3A37
+2011-08-17 17:03:08,130 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:03:08,130 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 17:03:08,130 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:03:08,130 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 17:03:08,130 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:03:08,130 INFO  com.robocall.ProjectAddress :100 - 594 D2 Block
+2011-08-17 17:03:45,315 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 17:03:45,315 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2619
+2011-08-17 17:03:45,315 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 17:03:45,315 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2619
+2011-08-17 17:03:45,330 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 17:03:45,330 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 17:04:03,610 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 17:04:03,610 INFO  com.robocall.HecStatusRequest :41 - pid=NA&survoid=348151&pass=11P_T2619
+2011-08-17 17:04:03,610 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 17:04:03,610 INFO  com.robocall.HecStatusRequest :46 - pid=NA&survoid=348151&pass=11P_T2619
+2011-08-17 17:04:03,610 INFO  com.robocall.HecStatusRequest :80 - visitnextNA
+2011-08-17 17:04:03,610 INFO  com.robocall.HecStatusRequest :82 - pas2619
+2011-08-17 17:04:03,610 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 17:04:33,327 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 17:04:33,327 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 17:04:33,327 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A33%3A17
+2011-08-17 17:04:33,327 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 17:04:33,327 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A33%3A17
+2011-08-17 17:04:49,935 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:04:49,935 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 17:04:49,935 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:04:49,935 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2619&survoId=348131&pass=11
+2011-08-17 17:04:49,935 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:05:01,950 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:05:01,950 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=26&survoId=348191&pass=11
+2011-08-17 17:05:01,950 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:05:01,950 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=26&survoId=348191&pass=11
+2011-08-17 17:05:01,981 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:05:13,871 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:05:13,871 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2626&survoId=348191&pass=11
+2011-08-17 17:05:13,871 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:05:13,871 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2626&survoId=348191&pass=11
+2011-08-17 17:05:13,871 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:05:13,871 INFO  com.robocall.ProjectAddress :100 - 234 B1 Block
+2011-08-17 17:05:44,197 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 17:05:44,197 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2633&pass=11P_T2626
+2011-08-17 17:05:44,197 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 17:05:44,197 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2633&pass=11P_T2626
+2011-08-17 17:05:54,728 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:05:54,728 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2632&survoId=348191&pass=11
+2011-08-17 17:05:54,744 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:05:54,744 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2632&survoId=348191&pass=11
+2011-08-17 17:05:54,744 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:06:06,228 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:06:06,228 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2631&survoId=348191&pass=11
+2011-08-17 17:06:06,228 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:06:06,228 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2631&survoId=348191&pass=11
+2011-08-17 17:06:06,228 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:06:06,228 INFO  com.robocall.ProjectAddress :100 - 517 P1 Block
+2011-08-17 17:06:25,368 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 17:06:25,368 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2631
+2011-08-17 17:06:25,368 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 17:06:25,368 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2631
+2011-08-17 17:06:25,384 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 17:06:25,384 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 17:06:48,603 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 17:06:48,603 INFO  com.robocall.HecStatusRequest :41 - pid=2626&survoid=348151&pass=11P_T2631
+2011-08-17 17:06:48,603 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 17:06:48,603 INFO  com.robocall.HecStatusRequest :46 - pid=2626&survoid=348151&pass=11P_T2631
+2011-08-17 17:06:48,603 INFO  com.robocall.HecStatusRequest :80 - visitnext2626
+2011-08-17 17:06:48,603 INFO  com.robocall.HecStatusRequest :82 - pas2631
+2011-08-17 17:06:48,603 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 17:06:48,603 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 17:07:16,805 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 17:07:16,805 INFO  com.robocall.CurrentLocationRequest :40 - notes=Goingdirectly&survoId=348171&pass=11P_T2631P_T2626
+2011-08-17 17:07:16,805 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 17:07:16,805 INFO  com.robocall.CurrentLocationRequest :45 - notes=Goingdirectly&survoId=348171&pass=11P_T2631P_T2626
+2011-08-17 17:07:16,852 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 17:07:56,211 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 17:07:56,227 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 17:07:56,227 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A36%3A40
+2011-08-17 17:07:56,227 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 17:07:56,227 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A36%3A40
+2011-08-17 17:08:12,461 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:08:12,461 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348131&pass=11
+2011-08-17 17:08:12,461 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:08:12,461 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348131&pass=11
+2011-08-17 17:08:12,492 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:08:27,961 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:08:27,976 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 17:08:27,976 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:08:27,976 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 17:08:27,976 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:08:40,664 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:08:40,664 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 17:08:40,664 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:08:40,664 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2627&survoId=348191&pass=11
+2011-08-17 17:08:40,664 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:09:09,491 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:09:09,491 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2626&survoId=348191&pass=11
+2011-08-17 17:09:09,491 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:09:09,491 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2626&survoId=348191&pass=11
+2011-08-17 17:09:09,491 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:09:09,491 INFO  com.robocall.ProjectAddress :100 - 234 B1 Block
+2011-08-17 17:09:29,413 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 17:09:29,413 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2626
+2011-08-17 17:09:29,413 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 17:09:29,413 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2626
+2011-08-17 17:09:29,429 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 17:09:29,429 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 17:09:55,866 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 17:09:55,866 INFO  com.robocall.HecStatusRequest :41 - pid=2627&survoid=348151&pass=11P_T2626
+2011-08-17 17:09:55,866 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 17:09:55,866 INFO  com.robocall.HecStatusRequest :46 - pid=2627&survoid=348151&pass=11P_T2626
+2011-08-17 17:09:55,866 INFO  com.robocall.HecStatusRequest :80 - visitnext2627
+2011-08-17 17:09:55,866 INFO  com.robocall.HecStatusRequest :82 - pas2626
+2011-08-17 17:09:55,866 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 17:09:55,866 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 17:10:08,537 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 17:10:08,537 INFO  com.robocall.CurrentLocationRequest :40 - notes=Lunchfirst&survoId=348171&pass=11P_T2626P_T2627
+2011-08-17 17:10:08,553 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 17:10:08,553 INFO  com.robocall.CurrentLocationRequest :45 - notes=Lunchfirst&survoId=348171&pass=11P_T2626P_T2627
+2011-08-17 17:10:08,584 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 17:10:47,600 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 17:10:47,600 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 17:10:47,600 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A39%3A31
+2011-08-17 17:10:47,600 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 17:10:47,600 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A39%3A31
+2011-08-17 17:11:02,975 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:11:02,975 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 17:11:02,975 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:11:02,975 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 17:11:03,006 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:11:03,006 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 17:11:32,881 INFO  com.robocall.ProjectSkipAddressRequest :40 - http://192.168.1.63:8201/RoboCall3.0/ProjectSkip
+2011-08-17 17:11:32,881 INFO  com.robocall.ProjectSkipAddressRequest :41 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2627&pass=11P_T2624
+2011-08-17 17:11:32,881 INFO  com.robocall.ProjectSkipAddressRequest :45 - ok
+2011-08-17 17:11:32,881 INFO  com.robocall.ProjectSkipAddressRequest :46 - opt=To%20reenter%20the%20correct%20project%20identification%20number&pid=2627&pass=11P_T2624
+2011-08-17 17:11:32,881 INFO  com.robocall.ProjectSkipAddressRequest :103 - 387 C1 Block
+2011-08-17 17:11:52,132 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 17:11:52,132 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2627
+2011-08-17 17:11:52,132 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 17:11:52,132 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2627
+2011-08-17 17:11:52,147 INFO  com.robocall.ConfirmationRequest :179 - success-3
+2011-08-17 17:11:52,147 INFO  com.robocall.ConfirmationRequest :180 - you have completed all your hec
+2011-08-17 17:12:15,023 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 17:12:15,023 INFO  com.robocall.HecStatusRequest :41 - pid=2627&survoid=348151&pass=11P_T2627
+2011-08-17 17:12:15,023 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 17:12:15,023 INFO  com.robocall.HecStatusRequest :46 - pid=2627&survoid=348151&pass=11P_T2627
+2011-08-17 17:12:15,023 INFO  com.robocall.HecStatusRequest :80 - visitnext2627
+2011-08-17 17:12:15,023 INFO  com.robocall.HecStatusRequest :82 - pas2627
+2011-08-17 17:12:15,023 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 17:12:15,023 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 17:12:27,913 INFO  com.robocall.HecStatusRequest :40 - http://192.168.1.63:8201/RoboCall3.0/HecStatus
+2011-08-17 17:12:27,913 INFO  com.robocall.HecStatusRequest :41 - pid=2624&Hec=348201&pass=11P_T2627
+2011-08-17 17:12:27,913 INFO  com.robocall.HecStatusRequest :45 - ok
+2011-08-17 17:12:27,913 INFO  com.robocall.HecStatusRequest :46 - pid=2624&Hec=348201&pass=11P_T2627
+2011-08-17 17:12:27,913 INFO  com.robocall.HecStatusRequest :80 - visitnext2624
+2011-08-17 17:12:27,913 INFO  com.robocall.HecStatusRequest :82 - pas2627
+2011-08-17 17:12:27,913 INFO  com.robocall.HecStatusRequest :86 - query1
+2011-08-17 17:12:27,913 INFO  com.robocall.HecStatusRequest :102 - query2
+2011-08-17 17:12:41,773 INFO  com.robocall.CurrentLocationRequest :39 - http://192.168.1.63:8201/RoboCall3.0/CurrentLocation
+2011-08-17 17:12:41,773 INFO  com.robocall.CurrentLocationRequest :40 - notes=Goingdirectly&survoId=348171&pass=11P_T2627P_T2624
+2011-08-17 17:12:41,773 INFO  com.robocall.CurrentLocationRequest :44 - Invoked the current Location servlet
+2011-08-17 17:12:41,773 INFO  com.robocall.CurrentLocationRequest :45 - notes=Goingdirectly&survoId=348171&pass=11P_T2627P_T2624
+2011-08-17 17:12:41,820 INFO  com.robocall.CurrentLocationRequest :132 - Successfully completed
+2011-08-17 17:13:15,789 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 17:13:15,789 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 17:13:15,789 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A41%3A59
+2011-08-17 17:13:15,789 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 17:13:15,789 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A41%3A59
+2011-08-17 17:13:30,492 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:13:30,492 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 17:13:30,492 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:13:30,492 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2624&survoId=348131&pass=11
+2011-08-17 17:13:30,508 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:13:30,508 INFO  com.robocall.ProjectAddress :100 - 744 S1 Block
+2011-08-17 17:14:06,274 INFO  com.robocall.ConfirmationRequest :42 - http://192.168.1.63:8201/RoboCall3.0/Confirmation
+2011-08-17 17:14:06,274 INFO  com.robocall.ConfirmationRequest :43 - Status=StatusCompleted&survoId=348141&pass=11P_T2624
+2011-08-17 17:14:06,274 INFO  com.robocall.ConfirmationRequest :47 - ok
+2011-08-17 17:14:06,274 INFO  com.robocall.ConfirmationRequest :48 - Status=StatusCompleted&survoId=348141&pass=11P_T2624
+2011-08-17 17:14:06,290 INFO  com.robocall.ConfirmationRequest :141 - success-3
+2011-08-17 17:14:17,540 INFO  com.robocall.AllHecUpdate :39 - http://192.168.1.63:8201/RoboCall3.0/AllHecUpdate
+2011-08-17 17:14:17,540 INFO  com.robocall.AllHecUpdate :40 - session=1108172191453740&survoid=348801&pass=11P_T2624
+2011-08-17 17:14:17,540 INFO  com.robocall.AllHecUpdate :44 - Invoked the All HEC Update servlet
+2011-08-17 17:14:17,540 INFO  com.robocall.AllHecUpdate :45 - session=1108172191453740&survoid=348801&pass=11P_T2624
+2011-08-17 17:14:17,571 INFO  com.robocall.AllHecUpdate :131 - Successfully completed
+2011-08-17 17:14:48,634 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-17 17:14:48,634 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-17 17:14:48,634 INFO  com.robocall.CrewVerification :54 - CrewId=11&survoId=348121&time=11-08-17%2007%3A43%3A32
+2011-08-17 17:14:48,634 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-17 17:14:48,634 INFO  com.robocall.CrewVerification :60 - CrewId=11&survoId=348121&time=11-08-17%2007%3A43%3A32
+2011-08-17 17:15:04,369 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:15:04,369 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=2628&survoId=348131&pass=11
+2011-08-17 17:15:04,369 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:15:04,369 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=2628&survoId=348131&pass=11
+2011-08-17 17:15:04,400 INFO  com.robocall.ProjectAddress :96 - query2
+2011-08-17 17:15:14,900 INFO  com.robocall.ProjectAddress :40 - http://192.168.1.63:8201/RoboCall3.0/Project
+2011-08-17 17:15:14,900 INFO  com.robocall.ProjectAddress :41 - WorkGroup_Id=NA&survoId=348191&pass=11
+2011-08-17 17:15:14,900 INFO  com.robocall.ProjectAddress :45 - ok
+2011-08-17 17:15:14,900 INFO  com.robocall.ProjectAddress :46 - WorkGroup_Id=NA&survoId=348191&pass=11

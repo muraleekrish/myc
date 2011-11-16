@@ -1,0 +1,30 @@
+2011-08-22 11:52:20,877 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-22 11:52:20,908 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-22 11:52:20,908 INFO  com.robocall.CrewVerification :54 - CrewId=2&survoId=survey_id&time=timestamp
+2011-08-22 11:52:20,908 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-22 11:52:20,908 INFO  com.robocall.CrewVerification :60 - CrewId=2&survoId=survey_id&time=timestamp
+2011-08-22 17:52:52,257 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-22 17:52:52,257 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-22 17:52:52,257 INFO  com.robocall.CrewVerification :54 - CrewId=5&survoId=survey_id&time=timestamp
+2011-08-22 17:52:52,257 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-22 17:52:52,257 INFO  com.robocall.CrewVerification :60 - CrewId=5&survoId=survey_id&time=timestamp
+2011-08-22 17:53:19,882 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-22 17:53:19,898 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-22 17:53:19,898 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=survey_id&time=timestamp
+2011-08-22 17:53:19,898 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-22 17:53:19,898 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=survey_id&time=timestamp
+2011-08-22 17:55:44,350 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-22 17:55:44,350 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-22 17:55:44,350 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=survey_id&time=timestamp
+2011-08-22 17:55:44,350 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-22 17:55:44,350 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=survey_id&time=timestamp
+2011-08-22 17:58:57,396 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-22 17:58:57,411 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-22 17:58:57,411 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=survey_id&time=timestamp
+2011-08-22 17:58:57,411 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-22 17:58:57,411 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=survey_id&time=timestamp
+2011-08-22 18:00:17,380 INFO  com.robocall.CrewVerification :49 - invoked the IfByPhone Test..........
+2011-08-22 18:00:17,380 INFO  com.robocall.CrewVerification :53 - http://192.168.1.63:8201/RoboCall3.0/Crew
+2011-08-22 18:00:17,380 INFO  com.robocall.CrewVerification :54 - CrewId=1&survoId=survey_id&time=timestamp
+2011-08-22 18:00:17,380 INFO  com.robocall.CrewVerification :59 - ok
+2011-08-22 18:00:17,380 INFO  com.robocall.CrewVerification :60 - CrewId=1&survoId=survey_id&time=timestamp

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+    http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd" version="1.0">
+    
+	<persistence-unit name="MyCove" transaction-type="RESOURCE_LOCAL">
+		<provider>org.hibernate.ejb.HibernatePersistence</provider>
+		<class>com.mycove.vo.Building</class>
+		<class>com.mycove.vo.TenantPrivilege</class>
+		<class>com.mycove.vo.Code</class>
+		<class>com.mycove.vo.Property</class>
+		<class>com.mycove.vo.EmployeePrivilege</class>
+		<class>com.mycove.vo.MaintenanceRequest</class>
+		<class>com.mycove.vo.MessageTemplate</class>
+		<class>com.mycove.vo.SurveyOptions</class>
+		<class>com.mycove.vo.UserProperty</class>
+		<class>com.mycove.vo.CustomerProperty</class>
+		<class>com.mycove.vo.User</class>
+		<class>com.mycove.vo.Customer</class>
+		<class>com.mycove.vo.Apartment</class>
+		<class>com.mycove.vo.Package</class>
+		<class>com.mycove.vo.CodeDetail</class>
+		<class>com.mycove.vo.MessageCC</class>
+		<class>com.mycove.vo.Employee</class>
+		<class>com.mycove.vo.Tenant</class>
+		<class>com.mycove.vo.Messages</class>
+		<class>com.mycove.vo.MessagesTo</class>
+		<class>com.mycove.vo.Role</class>
+		<class>com.mycove.vo.Privilege</class>
+		<class>com.mycove.vo.SurveyResults</class>
+		<class>com.mycove.vo.Survey</class>
+		<class>com.mycove.vo.RolePrivilege</class>
+		<class>com.mycove.dto.EmployeeDTO</class>
+		<class>com.mycove.dto.BuildingDTO</class>
+		<class>com.mycove.dto.MaintenanceRequestDTO</class>
+		<properties>
+			<property name="hibernate.connection.driver_class" value="org.postgresql.Driver" />
+			<property name="hibernate.connection.url" value="jdbc:postgresql://localhost:5432/mycove" />
+			<property name="hibernate.connection.username" value="postgres" />
+			<property name="hibernate.connection.password" value="savant" />
+		</properties>
+	</persistence-unit>
+
+</persistence>

@@ -1,0 +1,113 @@
+body {
+	color:#000;
+	margin:0;
+	background-color:transparent;
+	font:400 .8em Tahoma, Geneva, sans-serif
+}
+h1, h2, h5 {
+	margin-right:0;
+	margin-bottom:5px;
+	margin-left:0;
+	font-weight:400
+}
+h1 {
+	font-size:150%;
+	color:#008bc5;
+	margin:0;
+	text-align:center;
+	padding:20px 0
+}
+h2 {
+	padding:0;
+	height: 96px;
+	margin-top: 15px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+h5 {
+	font-size:110%;
+	color:#008bc5;
+	font-weight:700;
+	margin-left:130px;
+	margin-top:80px
+}
+
+#loginForm {
+	background-image:url(../Images/nlogin.jpg);
+	background-repeat:no-repeat;
+	height:100%;
+	width:100%;
+}
+.just{background-image:url(../Images/nlogin.jpg);
+	background-repeat:no-repeat;
+	height:100%;
+	width:100%;}
+.submitbutton {
+    background: url(../Images/submit.jpg) no-repeat ;
+	width: 60px;
+    height: 22px;
+	border: 0;
+	text-align:center;
+}
+
+.forgotlogin {
+    background: url(../images/forgot_login.jpg) no-repeat ;
+	width: 100px;
+    height: 22px;
+	border: 0;
+}
+
+.clearbutton {
+    background: url(../images/clear.jpg) no-repeat ;
+	width: 50px;
+    height: 22px;
+	border: 0;
+	text-align:center;
+}
+
+
+.TextBox{
+	font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#033350;width:120px
+	}	 
+label.error {
+    float: none;
+    color: red;
+    vertical-align: top;
+}
+#scroll {
+	width: 98%;
+	overflow: auto;
+}
+.listtable {
+	border:1px solid #008bc5;
+	padding:0;
+	background-color:#FFF;
+	margin-top: 20px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 5px;
+	width: 98%;
+}
+.Banner{background-image:url(../Images/topmid.jpg); background-repeat:repeat;}
+
+.GridHeader {
+	background-color:#FED98A;
+    text-align:center;
+}
+.evenrow {
+	background-color:#EAEAEA;
+	padding:3px 5px
+}
+
+.oddrow {
+	background-color:#FFF;
+	padding:3px 5px
+}
+
+.border
+{
+border-style:solid;
+border-color:013364;
+
+}

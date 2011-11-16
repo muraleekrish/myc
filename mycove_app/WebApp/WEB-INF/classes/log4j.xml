@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE log4j:configuration SYSTEM "../dtds/log4j.dtd">
+
+<log4j:configuration debug="false" xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+
+	<appender name="LogFile" class="org.apache.log4j.DailyRollingFileAppender">
+			<param name="File" value="D:\\git\\MyCove-Mobile\\mycove_app\\logs\\logfile.log" />
+			<param name="Append" value="true" />
+			<param name="DatePattern" value="'.'yyyy-MM-dd'.log'" />
+			<layout class="org.apache.log4j.PatternLayout">
+				<param name="ConversionPattern" value="%d{ISO8601} %-5p %c :%L %x- %m%n"/>
+			</layout>
+	</appender>
+
+	<appender name="MyCoveLog" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="File" value="E:\\JavaProjects\\MyCoveMobileApp\\logs\\MyCoveMobileApp.log" />
+		<param name="DatePattern" value="'.'yyyy-MM-dd'.log'" />
+		<param name="Append" value="true" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{ISO8601} %-5p %c :%L %x- %m%n"/>				
+		</layout>
+	</appender>
+
+	<appender name="STDOUT" class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+		   <param name="ConversionPattern" value="%d{ISO8601} %-5p %c :%L %x- %m%n"/>				   
+		</layout>
+	</appender>
+
+
+	<!-- ================ -->
+	<!-- Limit categories -->
+	<!-- ================ -->
+
+	<category name="org.apache" additivity="false">
+		<priority value="INFO"/>
+		<appender-ref ref="LogFile"/>
+		<appender-ref ref="STDOUT" />
+	</category> 	
+	
+	<category name="com.mycove" additivity="false">
+		<priority value="DEBUG"/>
+		<appender-ref ref="MyCoveLog"/>
+		<appender-ref ref="STDOUT" />
+	</category> 	
+	
+	<!-- Possible priorities include: DEBUG, INFO, WARN, ERROR and FATAL -->
+	<root>
+		<priority value="INFO" />
+		<appender-ref ref="LogFile" />
+		<appender-ref ref="STDOUT" />
+	</root>
+
+</log4j:configuration>

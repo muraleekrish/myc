@@ -1,0 +1,107 @@
+.ddmenutabs{
+padding-left: 100px;
+width: 90%;
+background: transparent;
+voice-family: "\"}\"";
+voice-family: inherit;
+}
+
+.ddmenutabs ul{
+font: normal 11px Arial, Verdana, sans-serif;
+margin:0;
+padding:0;
+list-style:none;
+line-height:17px;
+}
+
+.ddmenutabs li{
+display:inline;
+margin:0 2px 0 0;
+padding:0;
+
+}
+
+
+.ddmenutabs a{
+float:left;
+color: white;
+background: black url(../../images/menubg.gif) no-repeat left top;
+margin:0 2px 0 0;
+text-decoration:none;
+letter-spacing: 1px;
+width:150px;
+font-weight: bold;
+text-align:center;
+}
+
+.ddmenutabs a span{
+float:left;
+display:block;
+background: transparent url(media/color_tabs_right.gif) no-repeat right top;
+padding: 4px 8px 2px 7px;
+text-decoration:none;
+}
+
+.ddmenutabs a span{
+float:none;
+}
+
+.ddmenutabs a:hover{
+	background-color: green;
+	background-image:url(../../images/menubgover.gif);
+	background-repeat:repeat-x;
+	text-decoration:none;
+}
+
+.ddmenutabs a:hover span{
+	background-color: green;
+	background-image:url(../../images/menubgover.gif);
+	background-repeat:repeat-x;
+	text-decoration:none;
+}
+
+.ddmenutabs .selected a, #ddmenutabs .selected a span{ /*currently selected tab*/
+	background-color: green;
+	background-image:url(../../images/menubgover.gif);
+	background-repeat:repeat-x;
+	text-decoration:none;
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv_a{
+position:absolute;
+top: 0;
+border: 0px; /*THEME CHANGE HERE*/
+border-top-width: 0px; /*Top border width. Should match height of .ddmenutabsline above*/
+border-bottom-width: 0;
+font:normal 12px Arial;
+line-height:18px;
+z-index:100;
+background-color: #E2EEDB;
+width: 200px;
+visibility: hidden;
+text-decoration:none;
+}
+
+
+.dropmenudiv_a a{
+width: auto;
+display: block;
+text-indent: 5px;
+border-top: 0px;
+border-bottom: 0px; /*THEME CHANGE HERE*/
+padding: 2px 0;
+text-decoration: none;
+color: black;
+}
+
+* html .dropmenudiv_a a{ /*IE only hack*/
+width: 100%;
+}
+
+.dropmenudiv_a a:hover{ /*THEME CHANGE HERE*/
+background-color: #bcdf5f;
+color: white;
+text-decoration:none;
+}

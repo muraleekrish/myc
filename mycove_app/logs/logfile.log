@@ -1,0 +1,3 @@
+2011-09-20 17:09:20,327 INFO  org.apache.struts.util.PropertyMessageResources :127 - Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true
+2011-09-20 17:09:20,358 INFO  org.apache.struts.util.PropertyMessageResources :127 - Initializing, config='org.apache.struts.action.ActionResources', returnNull=true
+2011-09-20 17:09:20,952 INFO  org.apache.struts.util.PropertyMessageResources :127 - Initializing, config='ApplicationResources', returnNull=true

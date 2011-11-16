@@ -1,0 +1,557 @@
+2011-07-21 14:16:52,715 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:16:52,746 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:16:52,746 INFO  coreservlets.HelloServlet3 :39 - CrewId=7&survoId=335501&time=11-07-21%2004%3A45%3A45
+2011-07-21 14:16:52,746 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:16:53,246 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:16:53,246 INFO  coreservlets.HelloServlet3 :48 - CrewId=7&survoId=335501&time=11-07-21%2004%3A45%3A45
+2011-07-21 14:16:53,246 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 14:16:53,262 INFO  coreservlets.HelloServlet3 :87 - CrewId=7
+2011-07-21 14:16:53,262 INFO  coreservlets.HelloServlet3 :108 - CrewId=7&survoId=335501&time=11-07-21%2004%3A45%3A45
+2011-07-21 14:17:09,387 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:17:09,387 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:17:09,403 INFO  coreservlets.HelloServlet3 :39 - CrewId=7&survoId=339341&time=11-07-21%2004%3A46%3A02
+2011-07-21 14:17:09,403 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:17:09,403 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:17:09,403 INFO  coreservlets.HelloServlet3 :48 - CrewId=7&survoId=339341&time=11-07-21%2004%3A46%3A02
+2011-07-21 14:17:09,403 INFO  coreservlets.HelloServlet3 :85 - check339341
+2011-07-21 14:17:09,403 INFO  coreservlets.HelloServlet3 :87 - CrewId=7
+2011-07-21 14:17:09,403 INFO  coreservlets.HelloServlet3 :108 - CrewId=7&survoId=339341&time=11-07-21%2004%3A46%3A02
+2011-07-21 14:17:15,840 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:17:15,840 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:17:15,840 INFO  coreservlets.HelloServlet3 :39 - CrewId=NA&survoId=339341&time=11-07-21%2004%3A46%3A09
+2011-07-21 14:17:15,840 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:17:15,856 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:17:15,856 INFO  coreservlets.HelloServlet3 :48 - CrewId=NA&survoId=339341&time=11-07-21%2004%3A46%3A09
+2011-07-21 14:17:15,856 INFO  coreservlets.HelloServlet3 :85 - check339341
+2011-07-21 14:17:15,856 INFO  coreservlets.HelloServlet3 :87 - CrewId=NA
+2011-07-21 14:17:15,856 INFO  coreservlets.HelloServlet3 :108 - CrewId=NA&survoId=339341&time=11-07-21%2004%3A46%3A09
+2011-07-21 14:18:43,918 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:18:43,949 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:18:43,949 INFO  coreservlets.HelloServlet3 :39 - CrewId=7&survoId=335501&time=11-07-21%2004%3A47%3A37
+2011-07-21 14:18:43,949 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:18:44,215 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:18:44,215 INFO  coreservlets.HelloServlet3 :48 - CrewId=7&survoId=335501&time=11-07-21%2004%3A47%3A37
+2011-07-21 14:18:44,215 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 14:18:44,215 INFO  coreservlets.HelloServlet3 :87 - CrewId=7
+2011-07-21 14:18:44,215 INFO  coreservlets.HelloServlet3 :108 - CrewId=7&survoId=335501&time=11-07-21%2004%3A47%3A37
+2011-07-21 14:18:44,574 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 14:18:58,668 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:18:58,668 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:18:58,668 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2296&survoId=336061&pass=7
+2011-07-21 14:18:58,668 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:18:58,684 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:18:58,684 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2296&survoId=336061&pass=7
+2011-07-21 14:18:58,684 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 14:18:58,684 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2296
+2011-07-21 14:18:58,715 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=7%7C%7C2296
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=7%7C%7C2296
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 14:19:17,840 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 14:31:51,434 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:31:51,450 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:31:51,450 INFO  coreservlets.HelloServlet3 :39 - CrewId=7&survoId=335501&time=11-07-21%2005%3A00%3A44
+2011-07-21 14:31:51,450 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:31:51,715 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:31:51,715 INFO  coreservlets.HelloServlet3 :48 - CrewId=7&survoId=335501&time=11-07-21%2005%3A00%3A44
+2011-07-21 14:31:51,715 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 14:31:51,715 INFO  coreservlets.HelloServlet3 :87 - CrewId=7
+2011-07-21 14:31:51,715 INFO  coreservlets.HelloServlet3 :108 - CrewId=7&survoId=335501&time=11-07-21%2005%3A00%3A44
+2011-07-21 14:31:51,793 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 14:32:26,762 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:32:26,762 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:32:26,762 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2296&survoId=336061&pass=7
+2011-07-21 14:32:26,762 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:32:26,778 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:32:26,778 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2296&survoId=336061&pass=7
+2011-07-21 14:32:26,778 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 14:32:26,778 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2296
+2011-07-21 14:32:26,778 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=a%3D7%7C%7Cb%3D2296
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=a%3D7%7C%7Cb%3D2296
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 14:32:45,809 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 14:35:40,342 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:35:40,373 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:35:40,373 INFO  coreservlets.HelloServlet3 :39 - CrewId=7&survoId=335501&time=11-07-21%2005%3A04%3A33
+2011-07-21 14:35:40,373 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:35:40,639 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:35:40,639 INFO  coreservlets.HelloServlet3 :48 - CrewId=7&survoId=335501&time=11-07-21%2005%3A04%3A33
+2011-07-21 14:35:40,639 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 14:35:40,639 INFO  coreservlets.HelloServlet3 :87 - CrewId=7
+2011-07-21 14:35:40,639 INFO  coreservlets.HelloServlet3 :108 - CrewId=7&survoId=335501&time=11-07-21%2005%3A04%3A33
+2011-07-21 14:35:40,717 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 14:35:54,748 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:35:54,748 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:35:54,748 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=22966&survoId=336061&pass=7
+2011-07-21 14:35:54,748 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:35:54,748 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:35:54,748 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=22966&survoId=336061&pass=7
+2011-07-21 14:35:54,748 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 14:35:54,748 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=22966
+2011-07-21 14:36:08,373 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:36:08,373 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:36:08,373 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2296&survoId=339391&pass=7%7C%7C22966
+2011-07-21 14:36:08,373 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:36:08,389 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:36:08,389 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2296&survoId=339391&pass=7%7C%7C22966
+2011-07-21 14:36:08,389 INFO  coreservlets.HelloServlet3 :85 - check339391
+2011-07-21 14:36:08,389 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2296
+2011-07-21 14:36:08,389 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 14:36:27,342 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:36:27,342 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:36:27,342 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=7%257C%257C229662296
+2011-07-21 14:36:27,342 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:36:27,357 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:36:27,357 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=7%257C%257C229662296
+2011-07-21 14:36:27,357 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 14:36:27,357 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 14:36:27,357 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 14:42:39,632 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:42:39,648 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:42:39,648 INFO  coreservlets.HelloServlet3 :39 - CrewId=7&survoId=335501&time=11-07-21%2005%3A11%3A32
+2011-07-21 14:42:39,648 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:42:39,913 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:42:39,913 INFO  coreservlets.HelloServlet3 :48 - CrewId=7&survoId=335501&time=11-07-21%2005%3A11%3A32
+2011-07-21 14:42:39,913 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 14:42:39,913 INFO  coreservlets.HelloServlet3 :87 - CrewId=7
+2011-07-21 14:42:39,913 INFO  coreservlets.HelloServlet3 :108 - CrewId=7&survoId=335501&time=11-07-21%2005%3A11%3A32
+2011-07-21 14:42:48,070 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 14:42:48,070 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 14:42:48,070 INFO  coreservlets.HelloServlet3 :39 - CrewId=NA&survoId=339341&time=11-07-21%2005%3A11%3A41
+2011-07-21 14:42:48,070 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 14:42:48,085 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 14:42:48,085 INFO  coreservlets.HelloServlet3 :48 - CrewId=NA&survoId=339341&time=11-07-21%2005%3A11%3A41
+2011-07-21 14:42:48,085 INFO  coreservlets.HelloServlet3 :85 - check339341
+2011-07-21 14:42:48,085 INFO  coreservlets.HelloServlet3 :87 - CrewId=NA
+2011-07-21 14:42:48,085 INFO  coreservlets.HelloServlet3 :108 - CrewId=NA&survoId=339341&time=11-07-21%2005%3A11%3A41
+2011-07-21 15:11:27,263 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:11:27,263 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:11:27,263 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=335501&time=11-07-21%2005%3A40%3A20
+2011-07-21 15:11:27,263 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:11:27,529 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:11:27,529 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=335501&time=11-07-21%2005%3A40%3A20
+2011-07-21 15:11:27,529 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 15:11:27,529 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 15:11:27,529 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=335501&time=11-07-21%2005%3A40%3A20
+2011-07-21 15:11:27,919 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 15:11:41,388 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:11:41,388 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:11:41,388 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=NA&survoId=336061&pass=
+2011-07-21 15:11:41,388 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:11:41,404 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:11:41,404 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=NA&survoId=336061&pass=
+2011-07-21 15:12:05,513 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:12:05,513 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:12:05,513 INFO  coreservlets.HelloServlet3 :39 - CrewId=7&survoId=335501&time=11-07-21%2005%3A40%3A58
+2011-07-21 15:12:05,513 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:12:05,513 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:12:05,513 INFO  coreservlets.HelloServlet3 :48 - CrewId=7&survoId=335501&time=11-07-21%2005%3A40%3A58
+2011-07-21 15:12:05,513 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 15:12:05,513 INFO  coreservlets.HelloServlet3 :87 - CrewId=7
+2011-07-21 15:12:05,529 INFO  coreservlets.HelloServlet3 :108 - CrewId=7&survoId=335501&time=11-07-21%2005%3A40%3A58
+2011-07-21 15:12:16,591 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:12:16,591 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:12:16,591 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=339341&time=11-07-21%2005%3A41%3A10
+2011-07-21 15:12:16,591 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:12:16,607 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:12:16,607 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=339341&time=11-07-21%2005%3A41%3A10
+2011-07-21 15:12:16,607 INFO  coreservlets.HelloServlet3 :85 - check339341
+2011-07-21 15:12:16,607 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 15:12:16,607 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=339341&time=11-07-21%2005%3A41%3A10
+2011-07-21 15:12:16,638 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 15:12:35,014 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:12:35,014 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:12:35,014 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=22963&survoId=336061&pass=
+2011-07-21 15:12:35,014 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:12:35,029 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:12:35,029 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=22963&survoId=336061&pass=
+2011-07-21 15:15:11,079 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:15:11,079 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:15:11,079 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=335501&time=11-07-21%2005%3A44%3A04
+2011-07-21 15:15:11,079 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:15:11,095 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:15:11,095 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=335501&time=11-07-21%2005%3A44%3A04
+2011-07-21 15:15:11,095 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 15:15:11,095 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 15:15:11,095 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=335501&time=11-07-21%2005%3A44%3A04
+2011-07-21 15:15:11,454 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 15:15:30,001 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:15:30,001 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:15:30,001 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2298&survoId=336061&s=1107212191082037
+2011-07-21 15:15:30,001 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:15:30,001 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:15:30,001 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2298&survoId=336061&s=1107212191082037
+2011-07-21 15:15:30,001 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 15:15:30,001 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2298
+2011-07-21 15:15:30,033 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=2298
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=2298
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 15:15:48,767 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 15:15:48,830 INFO  coreservlets.HelloServlet3 :312 - success-3
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :39 - cl=2299&n=going%20directly&pass=2298
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :48 - cl=2299&n=going%20directly&pass=2298
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :85 - checkgoing%20directly
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :87 - cl=2299
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :319 - 2299
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :320 - going%20directly
+2011-07-21 15:16:26,174 INFO  coreservlets.HelloServlet3 :321 - 2298
+2011-07-21 15:38:23,974 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:38:23,990 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:38:23,990 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=335501&time=11-07-21%2006%3A07%3A17
+2011-07-21 15:38:23,990 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:38:24,255 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:38:24,255 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=335501&time=11-07-21%2006%3A07%3A17
+2011-07-21 15:38:24,255 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 15:38:24,255 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 15:38:24,271 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=335501&time=11-07-21%2006%3A07%3A17
+2011-07-21 15:38:24,349 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 15:38:37,990 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:38:37,990 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:38:37,990 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2299&survoId=336061&s=1107212191499956
+2011-07-21 15:38:37,990 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:38:37,990 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:38:37,990 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2299&survoId=336061&s=1107212191499956
+2011-07-21 15:38:37,990 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 15:38:37,990 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2299
+2011-07-21 15:38:38,036 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 15:38:58,255 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:38:58,255 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:38:58,255 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=2299
+2011-07-21 15:38:58,255 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:38:58,271 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:38:58,271 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=2299
+2011-07-21 15:38:58,271 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 15:38:58,271 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 15:38:58,271 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 15:38:58,271 INFO  coreservlets.HelloServlet3 :312 - success-3
+2011-07-21 15:39:41,052 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:39:41,052 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:39:41,052 INFO  coreservlets.HelloServlet3 :39 - cl=2300&n=lunch%20first&pass=2299
+2011-07-21 15:39:41,052 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:39:41,068 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:39:41,068 INFO  coreservlets.HelloServlet3 :48 - cl=2300&n=lunch%20first&pass=2299
+2011-07-21 15:39:41,068 INFO  coreservlets.HelloServlet3 :85 - checklunch%20first
+2011-07-21 15:39:41,068 INFO  coreservlets.HelloServlet3 :87 - cl=2300
+2011-07-21 15:39:41,068 INFO  coreservlets.HelloServlet3 :319 - 2300
+2011-07-21 15:39:41,068 INFO  coreservlets.HelloServlet3 :320 - lunch%20first
+2011-07-21 15:39:41,068 INFO  coreservlets.HelloServlet3 :321 - 2299
+2011-07-21 15:39:41,146 INFO  coreservlets.HelloServlet3 :371 - Successfully completed
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=335501&time=11-07-21%2006%3A13%3A08
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=335501&time=11-07-21%2006%3A13%3A08
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 15:44:15,552 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=335501&time=11-07-21%2006%3A13%3A08
+2011-07-21 15:44:15,583 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 15:44:29,802 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:44:29,802 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:44:29,802 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2298&survoId=336061&s=1107212191653822
+2011-07-21 15:44:29,802 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:44:29,818 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:44:29,818 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2298&survoId=336061&s=1107212191653822
+2011-07-21 15:44:29,818 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 15:44:29,818 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2298
+2011-07-21 15:44:42,974 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:44:42,974 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:44:42,974 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2301&survoId=339391&s=1107212191653822
+2011-07-21 15:44:42,974 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:44:42,990 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:44:42,990 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2301&survoId=339391&s=1107212191653822
+2011-07-21 15:44:42,990 INFO  coreservlets.HelloServlet3 :85 - check339391
+2011-07-21 15:44:42,990 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2301
+2011-07-21 15:44:43,021 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 15:45:01,990 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:45:01,990 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:45:01,990 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=2301
+2011-07-21 15:45:01,990 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:45:02,005 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:45:02,005 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=2301
+2011-07-21 15:45:02,005 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 15:45:02,005 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 15:45:02,005 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 15:45:02,068 INFO  coreservlets.HelloServlet3 :312 - success-3
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :39 - cl=2302&n=Goingdirectly&pass=2301
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :48 - cl=2302&n=Goingdirectly&pass=2301
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :85 - checkGoingdirectly
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :87 - cl=2302
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :319 - 2302
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :320 - Goingdirectly
+2011-07-21 15:45:39,255 INFO  coreservlets.HelloServlet3 :321 - 2301
+2011-07-21 15:45:39,490 INFO  coreservlets.HelloServlet3 :371 - Successfully completed
+2011-07-21 15:52:37,522 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:52:37,538 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:52:37,538 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=335501&time=11-07-21%2006%3A21%3A30
+2011-07-21 15:52:37,538 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:52:37,803 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:52:37,803 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=335501&time=11-07-21%2006%3A21%3A30
+2011-07-21 15:52:37,803 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 15:52:37,803 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 15:52:37,803 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=335501&time=11-07-21%2006%3A21%3A30
+2011-07-21 15:52:38,194 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 15:52:51,929 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:52:51,929 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:52:51,929 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=23&survoId=336061&s=1107212191482156
+2011-07-21 15:52:51,929 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:52:51,944 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:52:51,944 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=23&survoId=336061&s=1107212191482156
+2011-07-21 15:52:51,944 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 15:52:51,944 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=23
+2011-07-21 15:52:51,976 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 15:53:12,460 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:53:12,460 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:53:12,460 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=23
+2011-07-21 15:53:12,460 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:53:12,460 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:53:12,476 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=23
+2011-07-21 15:53:12,476 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 15:53:12,476 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 15:53:12,476 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 15:53:12,538 INFO  coreservlets.HelloServlet3 :312 - success-3
+2011-07-21 15:53:54,695 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:53:54,695 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:53:54,695 INFO  coreservlets.HelloServlet3 :39 - cl=2303&n=Lunchfirst&pass=23
+2011-07-21 15:53:54,695 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:53:54,695 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:53:54,695 INFO  coreservlets.HelloServlet3 :48 - cl=2303&n=Lunchfirst&pass=23
+2011-07-21 15:53:54,695 INFO  coreservlets.HelloServlet3 :85 - checkLunchfirst
+2011-07-21 15:53:54,711 INFO  coreservlets.HelloServlet3 :87 - cl=2303
+2011-07-21 15:53:54,711 INFO  coreservlets.HelloServlet3 :319 - 2303
+2011-07-21 15:53:54,711 INFO  coreservlets.HelloServlet3 :320 - Lunchfirst
+2011-07-21 15:53:54,711 INFO  coreservlets.HelloServlet3 :321 - 23
+2011-07-21 15:53:54,774 INFO  coreservlets.HelloServlet3 :371 - Successfully completed
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=335501&time=11-07-21%2006%3A24%3A12
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=335501&time=11-07-21%2006%3A24%3A12
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 15:55:18,963 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=335501&time=11-07-21%2006%3A24%3A12
+2011-07-21 15:55:18,994 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 15:55:33,275 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:55:33,275 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:55:33,275 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2303&survoId=336061&s=1107212191435826
+2011-07-21 15:55:33,275 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:55:33,275 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:55:33,275 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2303&survoId=336061&s=1107212191435826
+2011-07-21 15:55:33,275 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 15:55:33,275 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2303
+2011-07-21 15:55:33,307 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 15:55:52,666 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:55:52,682 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:55:52,682 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=2303
+2011-07-21 15:55:52,682 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:55:52,682 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:55:52,682 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=2303
+2011-07-21 15:55:52,682 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 15:55:52,682 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 15:55:52,682 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 15:55:52,729 INFO  coreservlets.HelloServlet3 :312 - success-3
+2011-07-21 15:56:30,698 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 15:56:30,698 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 15:56:30,698 INFO  coreservlets.HelloServlet3 :39 - cl=2302&n=Lunchfirst&pass=2303
+2011-07-21 15:56:30,698 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 15:56:30,714 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 15:56:30,714 INFO  coreservlets.HelloServlet3 :48 - cl=2302&n=Lunchfirst&pass=2303
+2011-07-21 15:56:30,714 INFO  coreservlets.HelloServlet3 :85 - checkLunchfirst
+2011-07-21 15:56:30,714 INFO  coreservlets.HelloServlet3 :87 - cl=2302
+2011-07-21 15:56:30,714 INFO  coreservlets.HelloServlet3 :319 - 2302
+2011-07-21 15:56:30,714 INFO  coreservlets.HelloServlet3 :320 - Lunchfirst
+2011-07-21 15:56:30,714 INFO  coreservlets.HelloServlet3 :321 - 2303
+2011-07-21 15:56:30,745 INFO  coreservlets.HelloServlet3 :371 - Successfully completed
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :39 - CrewId=54&survoId=335501&time=11-07-21%2006%3A30%3A43
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :48 - CrewId=54&survoId=335501&time=11-07-21%2006%3A30%3A43
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :87 - CrewId=54
+2011-07-21 16:01:49,934 INFO  coreservlets.HelloServlet3 :108 - CrewId=54&survoId=335501&time=11-07-21%2006%3A30%3A43
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=339341&time=11-07-21%2006%3A30%3A55
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=339341&time=11-07-21%2006%3A30%3A55
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :85 - check339341
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 16:02:02,434 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=339341&time=11-07-21%2006%3A30%3A55
+2011-07-21 16:02:02,466 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 16:02:17,372 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:02:17,372 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:02:17,372 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=22253&survoId=336061&s=1107212191735529
+2011-07-21 16:02:17,372 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:02:17,372 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:02:17,372 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=22253&survoId=336061&s=1107212191735529
+2011-07-21 16:02:17,372 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 16:02:17,372 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=22253
+2011-07-21 16:02:30,747 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:02:30,747 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:02:30,747 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2301&survoId=339391&s=1107212191735529
+2011-07-21 16:02:30,747 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:02:30,747 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:02:30,747 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2301&survoId=339391&s=1107212191735529
+2011-07-21 16:02:30,747 INFO  coreservlets.HelloServlet3 :85 - check339391
+2011-07-21 16:02:30,763 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2301
+2011-07-21 16:02:42,013 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:02:42,013 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:02:42,013 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2300&survoId=339391&s=1107212191735529
+2011-07-21 16:02:42,013 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:02:42,013 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:02:42,013 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2300&survoId=339391&s=1107212191735529
+2011-07-21 16:02:42,013 INFO  coreservlets.HelloServlet3 :85 - check339391
+2011-07-21 16:02:42,013 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2300
+2011-07-21 16:02:42,059 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 16:03:01,184 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:03:01,184 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:03:01,184 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=2300
+2011-07-21 16:03:01,184 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:03:01,184 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:03:01,184 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=2300
+2011-07-21 16:03:01,184 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 16:03:01,184 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 16:03:01,200 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 16:03:01,200 INFO  coreservlets.HelloServlet3 :312 - success-3
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :39 - cl=2302&n=Goingdirectly&pass=2300
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :48 - cl=2302&n=Goingdirectly&pass=2300
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :85 - checkGoingdirectly
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :87 - cl=2302
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :319 - 2302
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :320 - Goingdirectly
+2011-07-21 16:03:58,390 INFO  coreservlets.HelloServlet3 :321 - 2300
+2011-07-21 16:03:58,405 INFO  coreservlets.HelloServlet3 :371 - Successfully completed
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :39 - CrewId=22&survoId=335501&time=11-07-21%2006%3A34%3A08
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :48 - CrewId=22&survoId=335501&time=11-07-21%2006%3A34%3A08
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :87 - CrewId=22
+2011-07-21 16:05:17,533 INFO  coreservlets.HelloServlet3 :108 - CrewId=22&survoId=335501&time=11-07-21%2006%3A34%3A08
+2011-07-21 16:05:29,487 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:05:29,487 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:05:29,487 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=339341&time=11-07-21%2006%3A34%3A22
+2011-07-21 16:05:29,487 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:05:29,487 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:05:29,487 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=339341&time=11-07-21%2006%3A34%3A22
+2011-07-21 16:05:29,503 INFO  coreservlets.HelloServlet3 :85 - check339341
+2011-07-21 16:05:29,503 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 16:05:29,503 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=339341&time=11-07-21%2006%3A34%3A22
+2011-07-21 16:05:29,518 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 16:05:43,659 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:05:43,659 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:05:43,659 INFO  coreservlets.HelloServlet3 :39 - WorkGroup_Id=2302&survoId=336061&s=1107212191701015
+2011-07-21 16:05:43,659 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:05:43,659 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:05:43,659 INFO  coreservlets.HelloServlet3 :48 - WorkGroup_Id=2302&survoId=336061&s=1107212191701015
+2011-07-21 16:05:43,659 INFO  coreservlets.HelloServlet3 :85 - check336061
+2011-07-21 16:05:43,659 INFO  coreservlets.HelloServlet3 :87 - WorkGroup_Id=2302
+2011-07-21 16:05:43,706 INFO  coreservlets.HelloServlet3 :228 - success
+2011-07-21 16:06:02,832 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:06:02,832 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:06:02,832 INFO  coreservlets.HelloServlet3 :39 - Status=Status%20completed&survoId=336071&pass=2302
+2011-07-21 16:06:02,832 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:06:02,848 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:06:02,848 INFO  coreservlets.HelloServlet3 :48 - Status=Status%20completed&survoId=336071&pass=2302
+2011-07-21 16:06:02,848 INFO  coreservlets.HelloServlet3 :85 - check336071
+2011-07-21 16:06:02,848 INFO  coreservlets.HelloServlet3 :87 - Status=Status%20completed
+2011-07-21 16:06:02,848 INFO  coreservlets.HelloServlet3 :261 - choice-3
+2011-07-21 16:06:02,848 INFO  coreservlets.HelloServlet3 :312 - success-3
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :39 - cl=NA&n=NA&pass=2302
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :48 - cl=NA&n=NA&pass=2302
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :85 - checkNA
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :87 - cl=NA
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :319 - NA
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :320 - NA
+2011-07-21 16:06:18,926 INFO  coreservlets.HelloServlet3 :321 - 2302
+2011-07-21 17:55:33,681 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 17:55:33,712 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 17:55:33,712 INFO  coreservlets.HelloServlet3 :39 - 
+2011-07-21 17:55:33,712 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 18:58:04,575 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 18:58:04,591 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 18:58:04,591 INFO  coreservlets.HelloServlet3 :39 - 
+2011-07-21 18:58:04,622 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 18:59:41,732 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 18:59:41,732 INFO  coreservlets.HelloServlet3 :38 - http://localhost:8201/intro/seep
+2011-07-21 18:59:41,732 INFO  coreservlets.HelloServlet3 :39 - 
+2011-07-21 18:59:41,732 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 18:59:55,122 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 18:59:55,122 INFO  coreservlets.HelloServlet3 :38 - http://localhost:8201/intro/seep
+2011-07-21 18:59:55,122 INFO  coreservlets.HelloServlet3 :39 - 
+2011-07-21 18:59:55,122 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 19:10:21,075 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 19:10:21,075 INFO  coreservlets.HelloServlet3 :38 - http://localhost:8201/intro/seep
+2011-07-21 19:10:21,075 INFO  coreservlets.HelloServlet3 :39 - 
+2011-07-21 19:10:21,075 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 19:18:27,654 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 19:18:27,669 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 19:18:27,669 INFO  coreservlets.HelloServlet3 :39 - CrewId=1&survoId=335501&time=timestamp
+2011-07-21 19:18:27,669 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 19:18:27,982 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 19:18:27,997 INFO  coreservlets.HelloServlet3 :48 - CrewId=1&survoId=335501&time=timestamp
+2011-07-21 19:18:27,997 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 19:18:27,997 INFO  coreservlets.HelloServlet3 :87 - CrewId=1
+2011-07-21 19:18:27,997 INFO  coreservlets.HelloServlet3 :108 - CrewId=1&survoId=335501&time=timestamp
+2011-07-21 19:18:44,591 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 19:18:44,591 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 19:18:44,591 INFO  coreservlets.HelloServlet3 :39 - CrewId=7&survoId=335501&time=timestamp
+2011-07-21 19:18:44,591 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 19:18:44,591 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 19:18:44,591 INFO  coreservlets.HelloServlet3 :48 - CrewId=7&survoId=335501&time=timestamp
+2011-07-21 19:18:44,591 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 19:18:44,622 INFO  coreservlets.HelloServlet3 :87 - CrewId=7
+2011-07-21 19:18:44,622 INFO  coreservlets.HelloServlet3 :108 - CrewId=7&survoId=335501&time=timestamp
+2011-07-21 19:18:50,779 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 19:18:50,779 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 19:18:50,779 INFO  coreservlets.HelloServlet3 :39 - CrewId=2&survoId=335501&time=timestamp
+2011-07-21 19:18:50,810 INFO  coreservlets.HelloServlet3 :41 - con...
+2011-07-21 19:18:50,810 INFO  coreservlets.HelloServlet3 :47 - ok
+2011-07-21 19:18:50,810 INFO  coreservlets.HelloServlet3 :48 - CrewId=2&survoId=335501&time=timestamp
+2011-07-21 19:18:50,810 INFO  coreservlets.HelloServlet3 :85 - check335501
+2011-07-21 19:18:50,810 INFO  coreservlets.HelloServlet3 :87 - CrewId=2
+2011-07-21 19:18:50,810 INFO  coreservlets.HelloServlet3 :108 - CrewId=2&survoId=335501&time=timestamp
+2011-07-21 19:18:51,122 INFO  coreservlets.HelloServlet3 :135 - success
+2011-07-21 19:56:53,450 INFO  coreservlets.HelloServlet3 :34 - invoked the IfByPhone Test..........
+2011-07-21 19:56:53,450 INFO  coreservlets.HelloServlet3 :38 - http://192.168.1.63:8201/intro/seep
+2011-07-21 19:56:53,450 INFO  coreservlets.HelloServlet3 :39 - CrewId=8&survoId=335501&time=timestamp
+2011-07-21 19:56:53,450 INFO  coreservlets.HelloServlet3 :41 - con...
